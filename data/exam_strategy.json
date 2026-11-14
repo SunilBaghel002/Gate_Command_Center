@@ -1,0 +1,54 @@
+{
+  "time_blocks": [
+    {
+      "block": "General Aptitude",
+      "time": "15\u201320 min",
+      "strategy": "The easiest marks. Skip any GA question that takes >3 min; come back later."
+    },
+    {
+      "block": "Pass 1, Subjects",
+      "time": "~75\u201380 min",
+      "strategy": "Every question you can finish in 2\u20133 min. Decide in 20 sec: now, later, or skip."
+    },
+    {
+      "block": "Pass 2",
+      "time": "~50\u201355 min",
+      "strategy": "The \"later\" pile: you know the method but it takes multi-step computation."
+    },
+    {
+      "block": "Pass 3",
+      "time": "~15\u201320 min",
+      "strategy": "Review marked questions, check numerical entries, avoid wild guesses on MCQs."
+    }
+  ],
+  "the_last_7_days": [
+    {
+      "day": 84,
+      "focus": "General Aptitude, Engineering Maths and Discrete Maths: formulas, short notes, error log, 10 mixed PYQs each."
+    },
+    {
+      "day": 85,
+      "focus": "Mock 9: the last full mock at your exam slot."
+    },
+    {
+      "day": 86,
+      "focus": "Quick analysis of mock 9 (mistakes only), then Digital Logic and COA."
+    },
+    {
+      "day": 87,
+      "focus": "Programming & Data Structures, Algorithms and TOC."
+    },
+    {
+      "day": 88,
+      "focus": "Compiler Design and Operating Systems."
+    },
+    {
+      "day": 89,
+      "focus": "DBMS and Computer Networks, then read your entire Weak-Topic Log."
+    },
+    {
+      "day": 90,
+      "focus": "Light Day: Formula pages only. Print admit card, pack photo ID, check center route. Sleep early."
+    }
+  ]
+}

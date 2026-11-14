@@ -1,0 +1,5197 @@
+[
+  {
+    "day": 1,
+    "week": 1,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Reading Comprehension & Verbal Reasoning (39 GA PYQs on it)",
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "DM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Propositional Logic",
+        "duration": "1h 20",
+        "pyqs": "14 PYQs 2014\u201326",
+        "topics": [
+          "Connectives & truth tables",
+          "Tautology, contradiction, satisfiability",
+          "Logical equivalences (De Morgan, distributive, contrapositive)",
+          "Implication: 'if', 'only if', 'unless', 'when'",
+          "Rules of inference (modus ponens/tollens, resolution)",
+          "Translating English to propositions",
+          "Functionally complete sets (NAND, NOR)"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 06 : Propositional Logic | CS & IT | GATE 2026 Crash Course (only the parts on today's topics: about 50m at 1.5\u00d7; full video 1h 36)",
+        "optional": "Optional, only if you have time: 1 more video (49m)"
+      },
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "First-Order Logic (1/2)",
+        "duration": "3h 10",
+        "pyqs": "",
+        "topics": [
+          "Predicates, quantifiers, free & bound variables",
+          "Negating quantified statements",
+          "Quantifier distribution over \u2227 / \u2228",
+          "Order of quantifiers (\u2200\u2203 vs \u2203\u2200)",
+          "Translating English to FOL ('all', 'only', 'exactly one')",
+          "Valid vs satisfiable formulas"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 07 \u2192 Discrete Mathematics 08 (2 videos, 2h 48; at 1.5\u00d7 \u2248 1h 50)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "week": 1,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Numerical Relations & Puzzles (17 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Propositional Logic"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "First-Order Logic (2/2)",
+        "duration": "25m",
+        "pyqs": "14 PYQs",
+        "topics": [
+          "Rules of inference with quantifiers No new video today: finish the notes and worked examples"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Sets",
+        "duration": "55m",
+        "pyqs": "5 PYQs 2014\u201326",
+        "topics": [
+          "Set operations, Venn diagrams",
+          "Power set, Cartesian product",
+          "Inclusion\u2013exclusion",
+          "Symmetric difference",
+          "Countable vs uncountable sets",
+          "Cantor's diagonal argument"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 12 | Set Theory - Basics Of Set Theory | CS & IT | GATE 2024 Series YT (1 video, 46m; at 1.5\u00d7 \u2248 30m)",
+        "optional": null
+      },
+      {
+        "subject": "DM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Relations",
+        "duration": "1h 05",
+        "pyqs": "6 PYQs 2014\u201326",
+        "topics": [
+          "Reflexive, irreflexive, symmetric, antisymmetric, asymmetric, transitive",
+          "Equivalence relations & classes, partitions",
+          "Closures (reflexive, symmetric, transitive)",
+          "Composition of relations",
+          "Counting relations with given properties"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 09 | Types Of Relations | CS & IT | GATE 2026 Crash Course (only the parts on today's topics: about 40m at 1.5\u00d7; full video 1h 17)",
+        "optional": "Optional, only if you have time: 1 more video (49m)"
+      },
+      {
+        "subject": "DM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Functions",
+        "duration": "1h 05",
+        "pyqs": "11 PYQs 2014\u201326",
+        "topics": [
+          "One-one (injective), onto (surjective), bijective",
+          "Counting functions, injections, surjections",
+          "Composition and inverse",
+          "Pigeonhole principle via functions",
+          "Well-defined maps on equivalence classes"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 09 | Basics of function | CS & IT | GATE 2024 FastTrack Batch (only the parts on today's topics: about 40m at 1.5\u00d7; full video 1h 22)",
+        "optional": "Optional, only if you have time: 1 more video (56m)"
+      },
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Monoids & Groups (1/2)",
+        "duration": "50m",
+        "pyqs": "",
+        "topics": [
+          "Binary operations: closure, associativity, commutativity",
+          "Semigroup, monoid, group, abelian group"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 11 | Group Theory | CS & IT | GATE 2026 Crash Course (only the parts on today's topics: about 30m at 1.5\u00d7; full video 1h 08)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "week": 1,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Analogy & Coding-Decoding (22 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "First-Order Logic, Sets, Relations, Functions"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Monoids & Groups (2/2)",
+        "duration": "2h 15",
+        "pyqs": "13 PYQs",
+        "topics": [
+          "Identity and inverses",
+          "Order of an element, cyclic groups, generators",
+          "Subgroups and Lagrange's theorem",
+          "Groups like , , ,"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 12 | Subgroup & Cyclic Group | CS & IT | GATE 2026 Crash Course (1 video, 1h 08; at 1.5\u00d7 \u2248 45m)",
+        "optional": null
+      },
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Counting Principles (1/2)",
+        "duration": "1h 35",
+        "pyqs": "",
+        "topics": [
+          "Sum and product rules",
+          "Permutations and combinations (with/without repetition)",
+          "Stars and bars (multisets, distributing identical balls)"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 17 | Combinatorics - Basics of Counting | CS & IT | GATE 2024 Series YT (1 video, 45m; at 1.5\u00d7 \u2248 30m)",
+        "optional": "Optional, only if you have time: 1 more video (45m)"
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "week": 1,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Logic: Deduction & Induction (28 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Monoids & Groups"
+      },
+      {
+        "level": "R2",
+        "chapters": "Propositional Logic"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Counting Principles (2/2)",
+        "duration": "2h",
+        "pyqs": "11 PYQs",
+        "topics": [
+          "Inclusion\u2013exclusion, derangements",
+          "Pigeonhole principle",
+          "Double counting / combinatorial identities",
+          "Counting strings, matrices and subsets"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 19 \u2192 Discrete Mathematics 20 (2 videos, 1h 29; at 1.5\u00d7 \u2248 1h)",
+        "optional": null
+      },
+      {
+        "subject": "DM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Graph Basics & Degree",
+        "duration": "1h 05",
+        "pyqs": "8 PYQs 2014\u201326",
+        "topics": [
+          "Handshake lemma, degree sequences",
+          "Havel\u2013Hakimi test for graphic sequences",
+          "Special graphs: , , , , trees",
+          "Complement, subgraphs, isomorphism",
+          "Adjacency matrix: , and walks",
+          "Bipartite graphs: max edges, characterisation"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 01 : Basics Of Graphs | CS & IT | GATE 2026 Crash Course (only the parts on today's topics: about 40m at 1.5\u00d7; full video 1h 45)",
+        "optional": "Optional, only if you have time: 2 more videos (2h 36)"
+      },
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Connectivity (1/2)",
+        "duration": "1h 05",
+        "pyqs": "",
+        "topics": [
+          "Paths, cycles, connected components",
+          "Trees and forests: edges",
+          "Cut vertices and bridges Today: read and practise these topics from your notes. The video comes in the next part of this chapter"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "week": 1,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Numerical Computation & Algebra (51 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Counting Principles, Graph Basics & Degree"
+      },
+      {
+        "level": "R2",
+        "chapters": "First-Order Logic, Sets, Relations, Functions"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Connectivity (2/2)",
+        "duration": "1h 35",
+        "pyqs": "10 PYQs",
+        "topics": [
+          "Vertex and edge connectivity",
+          "Spanning trees, Cayley's formula, MST uniqueness",
+          "Distance, diameter",
+          "Max edges in a disconnected graph"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 03 : Connectivity | CS & IT | GATE 2026 Crash Course (only the parts on today's topics: about 55m at 1.5\u00d7; full video 1h 47)",
+        "optional": null
+      },
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Graph Colouring (1/2)",
+        "duration": "1h 55",
+        "pyqs": "",
+        "topics": [
+          "Chromatic number",
+          "Bounds: clique number, ,",
+          "Bipartite \u21d4 2-colourable \u21d4 no odd cycle",
+          "Greedy colouring",
+          "Edge colouring and chromatic index (Vizing)",
+          "Four colour theorem Z \u200bn Z \u200bn \u2217 (P(X), \u0394) S \u200b3 K \u200bn K \u200b m,n C \u200bn Q \u200bn A2 A3 n \u2212k \u03c7(G) \u0394 + 1 n/\u03b1"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Discrete Mathematics 05 : Planarity, Coloring, Matching | CS & IT | GATE 2026 Crash Course (1 video, 1h 21; at 1.5\u00d7 \u2248 55m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "week": 1,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Elementary Statistics & Probability (24 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Connectivity"
+      },
+      {
+        "level": "R2",
+        "chapters": "Monoids & Groups"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Graph Colouring (2/2)",
+        "duration": "20m",
+        "pyqs": "8 PYQs",
+        "topics": [
+          "Chromatic numbers of standard graphs No new video today: finish the notes and worked examples"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Matrices & Determinants",
+        "duration": "2h 15",
+        "pyqs": "24 PYQs",
+        "topics": [
+          "Matrix operations, transpose, trace",
+          "Special matrices: symmetric, skew-symmetric, orthogonal, idempotent, nilpotent, triangular",
+          "Determinant properties (row ops, scaling, product rule)",
+          "Inverse and adjoint",
+          "Vandermonde and rank-1 matrices",
+          "Trace properties"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 01 : Matrix and Determinants | All Branches | GATE 2027 Preparation (1 video, 1h 33; at 1.5\u00d7 \u2248 1h)",
+        "optional": "Optional, only if you have time: 1 more video (1h 42)"
+      },
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Rank & Systems of Linear Equations (1/2)",
+        "duration": "1h 35",
+        "pyqs": "",
+        "topics": [
+          "Row echelon form, rank",
+          "Rank\u2013nullity theorem",
+          "Consistency: rank(A) vs rank([A|b])",
+          "Unique / infinite / no solution"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 02 | Rank & System Of Equations | All Branch | GATE 2027 Preparation (only the parts on today's topics: about 55m at 1.5\u00d7; full video 1h 28)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "week": 1,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Data Interpretation: Graphs, Charts, Tables & Maps (26 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Graph Colouring, Matrices & Determinants"
+      },
+      {
+        "level": "R2",
+        "chapters": "Counting Principles, Graph Basics & Degree"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Rank & Systems of Linear Equations (2/2)",
+        "duration": "1h 05",
+        "pyqs": "27 PYQs",
+        "topics": [
+          "Homogeneous systems, null space",
+          "Linear independence, basis, dimension, subspaces",
+          "Gaussian elimination"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 4 | Linear Algebra Understand the RANK Like never Before | GATE All Branches (only the parts on today's topics: about 40m at 1.5\u00d7; full video 1h 44)",
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Eigenvalues & Eigenvectors (1/2)",
+        "duration": "2h 45",
+        "pyqs": "",
+        "topics": [
+          "Characteristic equation",
+          "Trace = sum, determinant = product of eigenvalues",
+          "Eigenvalues of , , , ,",
+          "Triangular, symmetric, orthogonal, rank-1 matrices",
+          "Algebraic vs geometric multiplicity, diagonalizability",
+          "Cayley\u2013Hamilton theorem det(A \u2212\u03bbI) = 0 Ak A\u22121 AT kA A + cI Days 8\u201314",
+          "5 h a day"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 03 | Eigen Values & Eigen Vectors | All Branch | GATE 2027 Preparation (1 video, 1h 33; at 1.5\u00d7 \u2248 1h)",
+        "optional": "Optional, only if you have time: 1 more video (1h 14)"
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "week": 2,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Mensuration & Geometry (17 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Rank & Systems of Linear Equations"
+      },
+      {
+        "level": "R2",
+        "chapters": "Connectivity"
+      },
+      {
+        "level": "R3",
+        "chapters": "Propositional Logic"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Eigenvalues & Eigenvectors (2/2)",
+        "duration": "20m",
+        "pyqs": "28 PYQs",
+        "topics": [
+          "Checking a given vector is an eigenvector No new video today: finish the notes and worked examples"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Limits",
+        "duration": "55m",
+        "pyqs": "7 PYQs 2014\u201326",
+        "topics": [
+          "Indeterminate forms , , ,",
+          "L'H\u00f4pital's rule",
+          "Standard limits and series expansions",
+          "Rationalising square roots",
+          "Left and right limits",
+          "Limits at infinity"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 08 | Limit, Continuity & Differentiability | All Branch | GATE 2027 (only the parts on today's topics: about 35m at 1.5\u00d7; full video 1h 37)",
+        "optional": "Optional, only if you have time: 1 more video (2h 06)"
+      },
+      {
+        "subject": "EM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Continuity & Differentiability",
+        "duration": "1h 05",
+        "pyqs": "8 PYQs 2014\u201326",
+        "topics": [
+          "Continuity at a point (LHL = RHL = f(a))",
+          "Types of discontinuity",
+          "Differentiability: LHD = RHD",
+          "Piecewise functions, , functions",
+          "Differentiable \u21d2 continuous (not conversely)",
+          "Derivatives, chain rule, even/odd parity of derivatives"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 02 | Differentiability | GATE 2025 Series | All Branches (only the parts on today's topics: about 40m at 1.5\u00d7; full video 2h 04)",
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Integration",
+        "duration": "1h 05",
+        "pyqs": "9 PYQs 2014\u201326",
+        "topics": [
+          "Standard integrals, substitution",
+          "Integration by parts",
+          "Definite integral properties (symmetry, King's rule)",
+          "Odd/even functions over",
+          "Integrals with , piecewise functions",
+          "Multiple (double/triple) integrals over rectangles",
+          "Functional-equation integrals"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 08 | Integration (Basics) | GATE 2025 Series | All Branches (only the parts on today's topics: about 40m at 1.5\u00d7; full video 2h 18)",
+        "optional": "Optional, only if you have time: 1 more video (2h 11)"
+      },
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Basic Probability (1/2)",
+        "duration": "40m",
+        "pyqs": "",
+        "topics": [
+          "Sample spaces and events",
+          "Axioms; addition rule; complement Today: read and practise these topics from your notes. The video comes in the next part of this chapter"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "week": 2,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Vocabulary: Words, Idioms & Phrases (64 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Eigenvalues & Eigenvectors, Limits, Continuity & Differentiability, Integration"
+      },
+      {
+        "level": "R2",
+        "chapters": "Graph Colouring, Matrices & Determinants"
+      },
+      {
+        "level": "R3",
+        "chapters": "First-Order Logic, Sets, Relations, Functions"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Basic Probability (2/2)",
+        "duration": "1h 35",
+        "pyqs": "34 PYQs",
+        "topics": [
+          "Independent vs mutually exclusive events",
+          "Classical probability with counting",
+          "Repeated trials, geometric waiting",
+          "P\u00f3lya urn and symmetry arguments"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 04 | Basic Probability | All Branch | GATE 2027 Preparation (only the parts on today's topics: about 55m at 1.5\u00d7; full video 1h 36)",
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Random Variables, Expectation & Variance (1/2)",
+        "duration": "1h 35",
+        "pyqs": "",
+        "topics": [
+          "Discrete RVs: PMF, CDF",
+          "Continuous RVs: PDF, CDF, normalising constant",
+          "Expectation and linearity",
+          "Variance, standard deviation, covariance 0/0 \u221e/\u221e1\u221e\u221e\u2212\u221e \u2223x\u2223max / min [\u2212a, a] \u2223x\u2223"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 06 | Discrete Random Variable | All Branch | GATE 2027 Preparation (only the parts on today's topics: about 55m at 1.5\u00d7; full video 1h 33)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "week": 2,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Sequences & Series (15 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Basic Probability"
+      },
+      {
+        "level": "R2",
+        "chapters": "Rank & Systems of Linear Equations"
+      },
+      {
+        "level": "R3",
+        "chapters": "Monoids & Groups"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "EM",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Random Variables, Expectation & Variance (2/2)",
+        "duration": "1h 05",
+        "pyqs": "17 PYQs",
+        "topics": [
+          "Indicator variables",
+          "Probability generating functions"
+        ],
+        "lecture": "GATE Wallah: Engineering Mathematics 07 | Continuous Random Variable | All Branches | GATE 2027 Preparation (only the parts on today's topics: about 40m at 1.5\u00d7; full video 1h 30)",
+        "optional": null
+      },
+      {
+        "subject": "DL",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Boolean Algebra & Logic Gates",
+        "duration": "2h 15",
+        "pyqs": "19 PYQs",
+        "topics": [
+          "Laws: commutative, associative, distributive, absorption, consensus",
+          "De Morgan's theorems",
+          "Duality and self-dual functions",
+          "XOR / XNOR properties",
+          "Universal gates (NAND, NOR)",
+          "Functional completeness",
+          "Number of Boolean functions ( )"
+        ],
+        "lecture": "Gate Smashers: Lec-2, Lec-4, Lec-5, Lec-6, Lec-8, Lec-9, Lec-10 (7 videos, 47m; at 1.5\u00d7 \u2248 30m)",
+        "optional": null
+      },
+      {
+        "subject": "DL",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Canonical Forms (SOP & POS)",
+        "duration": "45m",
+        "pyqs": "4 PYQs 2014\u201326",
+        "topics": [
+          "Minterms and maxterms",
+          "Sum of minterms",
+          "Product of maxterms",
+          "Converting expressions to canonical form",
+          "Operations on minterm lists (AND, OR, XOR of functions) OF MINTERMS, PRODUCT OF MAXTERMS (2 videos, 17m; at 1.5\u00d7 \u2248 10m)"
+        ],
+        "lecture": "Gate Smashers: Lec-7: Canonical Sum of Product (SOP) with example; Unacademy Computer Science: CANONICAL FORM :SUM",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "week": 2,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 Ratios, Proportions & Percentages (22 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Random Variables, Expectation & Variance, Boolean Algebra & Logic Gates, Canonical Forms (SOP & POS)"
+      },
+      {
+        "level": "R2",
+        "chapters": "Eigenvalues & Eigenvectors, Limits, Continuity & Differentiability, Integration"
+      },
+      {
+        "level": "R3",
+        "chapters": "Counting Principles, Graph Basics & Degree"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DL",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "K-Map Minimisation",
+        "duration": "2h 40",
+        "pyqs": "15 PYQs",
+        "topics": [
+          "2-, 3-, 4-variable K-maps (Gray-code order)",
+          "Prime implicants (PI) and essential prime implicants (EPI)",
+          "Don't-care conditions",
+          "Minimal SOP and minimal POS",
+          "Counting literals / minimum number of gates",
+          "Detecting independence from a variable"
+        ],
+        "lecture": "Gate Smashers: Lec 11, Lec -12, Lec -13, Lec -14 (4 videos, 27m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      },
+      {
+        "subject": "DL",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Multiplexers, Decoders & Encoders (1/2)",
+        "duration": "30m",
+        "pyqs": "",
+        "topics": [
+          ":1 MUX as universal function generator",
+          "Implementing functions with a MUX (variable on data inputs) E[X ] = Var + mean2 22n \u03a3m \u03a0M 2n"
+        ],
+        "lecture": "Gate Smashers: Lec -18, Lec - 19 (2 videos, 11m; at 1.5\u00d7 \u2248 5m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "week": 2,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 English Grammar (37 GA PYQs on it)",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "K-Map Minimisation"
+      },
+      {
+        "level": "R2",
+        "chapters": "Basic Probability"
+      },
+      {
+        "level": "R3",
+        "chapters": "Connectivity"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DL",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Multiplexers, Decoders & Encoders (2/2)",
+        "duration": "1h 25",
+        "pyqs": "14 PYQs",
+        "topics": [
+          "Cascaded multiplexers",
+          "n: decoders, decoder + OR = any function",
+          "Building large decoders from small ones",
+          "Encoders, priority encoders, demultiplexers",
+          "ROM / PLA basics"
+        ],
+        "lecture": "Gate Smashers: Lec -20, Lec -24, Lec -25, Lec - 52 (4 videos, 26m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      },
+      {
+        "subject": "DL",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Number Systems & Base Conversion",
+        "duration": "40m",
+        "pyqs": "9 PYQs 2014\u201326",
+        "topics": [
+          "Positional notation in base r",
+          "Conversions between bases 2, 8, 10, 16 and arbitrary r",
+          "Fractions in other bases",
+          "Solving for an unknown radix",
+          "BCD, Gray code, excess-3",
+          "Endianness (little/big)"
+        ],
+        "lecture": "Gate Smashers: Lec-1 Number system in Digital\u2026 \u2192 Lec-4 (4 videos, 36m; at 1.5\u00d7 \u2248 25m)",
+        "optional": "Optional, only if you have time: 3 more videos (1h 02)"
+      },
+      {
+        "subject": "DL",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Signed Integers & Overflow",
+        "duration": "50m",
+        "pyqs": "10 PYQs 2014\u201326",
+        "topics": [
+          "Sign-magnitude, 1's complement, 2's complement",
+          "Ranges and number of distinct values",
+          "Sign extension",
+          "2's complement addition/subtraction",
+          "Overflow detection rules",
+          "Arithmetic shifts"
+        ],
+        "lecture": "Gate Smashers: Lec-6 What are Signed & Unsigned Numbers \u2192 Lec-17 (4 videos, 35m; at 1.5\u00d7 \u2248 25m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 08)"
+      },
+      {
+        "subject": "DL",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Fixed Point & Multiplication (Booth)",
+        "duration": "40m",
+        "pyqs": "3 PYQs",
+        "topics": [
+          "Unsigned and signed fixed-point formats",
+          "Range and resolution ( )",
+          "Exact representability of decimals",
+          "Booth's algorithm and recoding",
+          "Counting additions/subtractions",
+          "Bit-pair (modified Booth) recoding"
+        ],
+        "lecture": "Unacademy Computer Science: Fixed and Floating Point Arithmetic | Lec 6 | Digital Logic | GATE 2022 CSE | Ankit Goyal (only the parts on today's topics: about 25m at 1.5\u00d7; full video 1h 13)",
+        "optional": "Optional, only if you have time: 2 more videos (1h 09)"
+      },
+      {
+        "subject": "DL",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "IEEE 754 Floating Point (1/2)",
+        "duration": "30m",
+        "pyqs": "",
+        "topics": [
+          "Single (1|8|23, bias 127) and double (1|11|52, bias 1023) formats"
+        ],
+        "lecture": "Gate Smashers: Lec-10: Floating Point Representation with examples | Number System (1 video, 18m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "week": 2,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Multiplexers, Decoders & Encoders, Number Systems & Base Conversion, Signed Integers & Overflow, Fixed Point & Multiplication (Booth)"
+      },
+      {
+        "level": "R2",
+        "chapters": "Random Variables, Expectation & Variance, Boolean Algebra & Logic Gates, Canonical Forms (SOP & POS)"
+      },
+      {
+        "level": "R3",
+        "chapters": "Graph Colouring, Matrices & Determinants"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DL",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "IEEE 754 Floating Point (2/2)",
+        "duration": "1h 45",
+        "pyqs": "10 PYQs",
+        "topics": [
+          "Normalised value",
+          "Denormals, \u00b10, \u00b1\u221e, NaN",
+          "Hex \u2194 decimal conversion",
+          "Arithmetic on encoded values (add, multiply, divide)",
+          "Smallest/largest normalised numbers, comparing encodings"
+        ],
+        "lecture": "Unacademy Computer Science: IEEE-754 Floating Point Representation | L 3 | COA 2.0 | GATE 2022 #VishvadeepGothi (1 video, 1h 08; at 1.5\u00d7 \u2248 45m)",
+        "optional": null
+      },
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Machine Instructions & ISA (1/2)",
+        "duration": "1h 25",
+        "pyqs": "",
+        "topics": [
+          "What belongs to an ISA vs microarchitecture",
+          "Load-store (RISC) vs CISC",
+          "0/1/2/3-address instructions",
+          "Tracing assembly programs (loops, memory contents)",
+          "Stack operations, CALL/RET, PSW 2n 2\u2212f (\u22121) \u00d7 S 1.M \u00d7 2E\u2212127"
+        ],
+        "lecture": "Gate Smashers: L-1.7, L-1.12, L-1.15, L-1.16 (4 videos, 31m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "week": 2,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "IEEE 754 Floating Point"
+      },
+      {
+        "level": "R2",
+        "chapters": "K-Map Minimisation"
+      },
+      {
+        "level": "R3",
+        "chapters": "Rank & Systems of Linear Equations"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Machine Instructions & ISA (2/2)",
+        "duration": "40m",
+        "pyqs": "11 PYQs",
+        "topics": [
+          "PC-relative branch offsets",
+          "CPI, clock cycle and execution time"
+        ],
+        "lecture": "Gate Smashers: L-1.17, L-2.13 (2 videos, 20m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      },
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Instruction Formats & Opcode Encoding",
+        "duration": "1h 40",
+        "pyqs": "9 PYQs",
+        "topics": [
+          "Field widths: opcode, register, immediate, addressing mode",
+          "Expanding opcode technique",
+          "Counting maximum instructions of a type",
+          "Byte-aligned instruction storage",
+          "Maximum immediate value (signed / unsigned) Science: What is Instruction? L 7 | COA 2.0 | GATE 2022 #VishvadeepGothi (2 videos, 1h 19; at 1.5\u00d7 \u2248 55m)"
+        ],
+        "lecture": "Gate Smashers: L-1.13: What is Instruction Format | Understand Computer Organisation with Simple Story; Unacademy Computer",
+        "optional": "Optional, only if you have time: 1 more video (1h 19)"
+      },
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Pipeline Performance & Speedup (1/2)",
+        "duration": "1h 45",
+        "pyqs": "",
+        "topics": [
+          "k-stage pipeline timing: cycles",
+          "Cycle time = max stage delay + latch delay",
+          "Speedup vs non-pipelined, throughput",
+          "Splitting stages, unbalanced stages",
+          "Variable-latency stages (k + n \u22121) Days 15\u201321",
+          "5 h a day"
+        ],
+        "lecture": "Gate Smashers: L-4.1, L-4.2, L-4.3, L-4.4 (4 videos, 36m; at 1.5\u00d7 \u2248 25m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 08)"
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "week": 3,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 45",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Machine Instructions & ISA, Instruction Formats & Opcode Encoding"
+      },
+      {
+        "level": "R2",
+        "chapters": "Multiplexers, Decoders & Encoders, Number Systems & Base Conversion, Signed Integers & Overflow, Fixed Point & Multiplication (Booth)"
+      },
+      {
+        "level": "R3",
+        "chapters": "Eigenvalues & Eigenvectors, Limits, Continuity & Differentiability, Integration"
+      },
+      {
+        "level": "R4",
+        "chapters": "Propositional Logic"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Pipeline Performance & Speedup (2/2)",
+        "duration": "40m",
+        "pyqs": "20 PYQs",
+        "topics": [
+          "Amdahl's law / parallel speedup",
+          "Reservation tables and MAL (classic) No new video today: finish the notes and worked examples"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Pipeline Hazards",
+        "duration": "2h 15",
+        "pyqs": "14 PYQs",
+        "topics": [
+          "Structural hazards (resource conflicts, multi-cycle stages)",
+          "Data hazards: RAW, WAR, WAW",
+          "Operand forwarding / bypassing and its limits (load-use)",
+          "Control hazards: branch penalty, flushing",
+          "Branch prediction and its effect on CPI",
+          "Register renaming"
+        ],
+        "lecture": "Gate Smashers: L-4.6, L-4.7, L-4.8, L-4.9, L-4.10, L-4.11, L-4.12, L-4.13 (8 videos, 1h 18; at 1.5\u00d7 \u2248 50m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "week": 3,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Pipeline Performance & Speedup, Pipeline Hazards"
+      },
+      {
+        "level": "R2",
+        "chapters": "IEEE 754 Floating Point"
+      },
+      {
+        "level": "R3",
+        "chapters": "Basic Probability"
+      },
+      {
+        "level": "R4",
+        "chapters": "First-Order Logic, Sets, Relations, Functions"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Cache Organisation & Mapping",
+        "duration": "2h 40",
+        "pyqs": "30 PYQs",
+        "topics": [
+          "Address split: tag | set index | block offset",
+          "Direct-mapped, k-way set-associative, fully associative",
+          "Tag directory size (valid, dirty, replacement bits)",
+          "Which set/line an address maps to",
+          "Tracing a sequence of accesses (hits, misses, evictions)",
+          "Replacement: LRU, FIFO; conflict vs capacity vs compulsory misses"
+        ],
+        "lecture": "Gate Smashers: L-3.5, L-3.6, L-3.8, L-3.10, L-3.12, L-3.13 (6 videos, 1h 05; at 1.5\u00d7 \u2248 45m)",
+        "optional": null
+      },
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Cache Performance & Write Policies (1/2)",
+        "duration": "55m",
+        "pyqs": "",
+        "topics": [
+          "AMAT for one and two levels (hierarchical vs simultaneous)",
+          "Local vs global miss rate, misses per 1000 instructions"
+        ],
+        "lecture": "Gate Smashers: L-3.2, L-3.3 (2 videos, 18m; at 1.5\u00d7 \u2248 10m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 22)"
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "week": 3,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Cache Organisation & Mapping"
+      },
+      {
+        "level": "R2",
+        "chapters": "Machine Instructions & ISA, Instruction Formats & Opcode Encoding"
+      },
+      {
+        "level": "R3",
+        "chapters": "Random Variables, Expectation & Variance, Boolean Algebra & Logic Gates, Canonical Forms (SOP & POS)"
+      },
+      {
+        "level": "R4",
+        "chapters": "Monoids & Groups"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "COA",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Cache Performance & Write Policies (2/2)",
+        "duration": "1h 30",
+        "pyqs": "19 PYQs",
+        "topics": [
+          "Miss penalty with block transfer (first word + rest)",
+          "Stall cycles and CPI with cache misses",
+          "Write-through vs write-back, write- allocate vs no-write-allocate",
+          "Effect of block size, associativity on hit rate and penalty"
+        ],
+        "lecture": "Unacademy Computer Science: Cache Miss Penalty & Types of Cache Misses | L 37 | COA 2.0 | GATE 2022 | Vishvadeep Gothi (1 video, 1h 11; at 1.5\u00d7 \u2248 45m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 02)"
+      },
+      {
+        "subject": "COA",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Interrupts & I/O Modes",
+        "duration": "45m",
+        "pyqs": "6 PYQs 2014\u201326",
+        "topics": [
+          "Programmed (polling) I/O vs interrupt-driven I/O",
+          "Interrupt handling sequence (finish instruction, save PC/PSW, jump to ISR)",
+          "Vectored vs non-vectored interrupts",
+          "Daisy chaining and priority",
+          "Polling vs interrupt overhead calculations",
+          "Memory-mapped vs I/O-mapped I/O 2022 (only the parts on today's topics: about 25m at 1.5\u00d7; full video 1h 07)"
+        ],
+        "lecture": "Unacademy Computer Science: IO Organization: Introduction, IO-Mapped IO and Memory - Mapped IO | L 18 | COA 2.0 | GATE",
+        "optional": "Optional, only if you have time: 3 more videos (2h 32)"
+      },
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "C Basics: Operators, Expressions and Control Flow (1/2)",
+        "duration": "1h 25",
+        "pyqs": "",
+        "topics": [
+          "Data types, sizes, integer overflow and signed/unsigned",
+          "Operator precedence and associativity",
+          "Pre/post increment, side effects",
+          "Short-circuit evaluation of && and ||",
+          "Integer division and modulus with negatives"
+        ],
+        "lecture": "GATE Wallah CSE & DA: C Programming 01 : Operators | CS & IT | GATE 2026 Crash Course (only the parts on today's topics: about 50m at 1.5\u00d7; full video 1h 40)",
+        "optional": "Optional, only if you have time: 1 more video (1h 41)"
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "week": 3,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Cache Performance & Write Policies, Interrupts & I/O Modes"
+      },
+      {
+        "level": "R2",
+        "chapters": "Pipeline Performance & Speedup, Pipeline Hazards"
+      },
+      {
+        "level": "R3",
+        "chapters": "K- Map Minimisation"
+      },
+      {
+        "level": "R4",
+        "chapters": "Counting Principles, Graph Basics & Degree"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "C Basics: Operators, Expressions and Control Flow (2/2)",
+        "duration": "50m",
+        "pyqs": "20 PYQs",
+        "topics": [
+          "if/else, switch fall-through, for/while/do-while, break/continue",
+          "Bitwise operators and shifts",
+          "printf return value and format specifiers"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Making Decisions Like a Machine | C Programming 03 | CS & IT | GATE 2027 | Mission Under AIR 100 (only the parts on today's topics: about 30m at 1.5\u00d7; full video 54m)",
+        "optional": null
+      },
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Pointers and Arrays (1/2)",
+        "duration": "2h 45",
+        "pyqs": "",
+        "topics": [
+          "Address-of and dereference",
+          "Pointer arithmetic and scaling by sizeof",
+          "Array name as pointer: a[i] == *(a+i)",
+          "2D arrays, pointer to array, array of pointers",
+          "Strings as char arrays / char pointers",
+          "Pointer to pointer Pointer | CS & IT | CS & IT | GATE 2026 Crash Course (2 videos, 1h 40; at 1.5\u00d7 \u2248 1h 05)"
+        ],
+        "lecture": "Gate Smashers: Introduction to Pointers | C Language | Basics of Pointers in Hindi; GATE Wallah CSE & DA: C Programming 06 :",
+        "optional": "Optional, only if you have time: 1 more video (1h 36)"
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "week": 3,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 45",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "C Basics: Operators, Expressions and Control Flow"
+      },
+      {
+        "level": "R2",
+        "chapters": "Cache Organisation & Mapping"
+      },
+      {
+        "level": "R3",
+        "chapters": "Multiplexers, Decoders & Encoders, Number Systems & Base Conversion, Signed Integers & Overflow, Fixed Point & Multiplication (Booth)"
+      },
+      {
+        "level": "R4",
+        "chapters": "Connectivity"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Pointers and Arrays (2/2)",
+        "duration": "50m",
+        "pyqs": "23 PYQs",
+        "topics": [
+          "Pointers to functions",
+          "const with pointers"
+        ],
+        "lecture": "GATE Wallah CSE & DA: C Programming 08 : 2-D Array | CS & IT | GATE 2026 Crash Course (only the parts on today's topics: about 30m at 1.5\u00d7; full video 1h 32)",
+        "optional": null
+      },
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Functions, Parameter Passing and Scope",
+        "duration": "2h 40",
+        "pyqs": "17 PYQs",
+        "topics": [
+          "Call by value (C's only mechanism) and simulating call by reference with pointers",
+          "Call by reference, call by value-result, call by name (conceptual, from PL theory)",
+          "Storage classes: auto, static, extern, register",
+          "Lifetime vs scope; static locals keep values across calls",
+          "Block scope and shadowing",
+          "Static (lexical) vs dynamic scoping",
+          "Activation records and the call stack"
+        ],
+        "lecture": "GATE Wallah CSE & DA: C Programming 03 : Functions | CS & IT | GATE 2026 Crash Course (1 video, 1h 36; at 1.5\u00d7 \u2248 1h 05)",
+        "optional": "Optional, only if you have time: 4 more videos (3h 04)"
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "week": 3,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Pointers and Arrays, Functions, Parameter Passing and Scope"
+      },
+      {
+        "level": "R2",
+        "chapters": "Cache Performance & Write Policies, Interrupts & I/O Modes"
+      },
+      {
+        "level": "R3",
+        "chapters": "IEEE 754 Floating Point"
+      },
+      {
+        "level": "R4",
+        "chapters": "Graph Colouring, Matrices & Determinants"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Structures, Unions and Dynamic Memory",
+        "duration": "55m",
+        "pyqs": "3 PYQs",
+        "topics": [
+          "struct declaration, members, -> vs .",
+          "Self-referential structures",
+          "union and sharing of storage",
+          "typedef",
+          "malloc, calloc, realloc, free",
+          "Memory leaks and dangling pointers",
+          "sizeof struct and padding (conceptual) (4 videos, 38m; at 1.5\u00d7 \u2248 25m)"
+        ],
+        "lecture": "Gate Smashers: Introduction to Structure in C Programming in Hindi with\u2026 \u2192 Malloc() in C Programming",
+        "optional": "Optional, only if you have time: 1 more video (1h 02)"
+      },
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Recursion",
+        "duration": "2h 40",
+        "pyqs": "22 PYQs",
+        "topics": [
+          "Base case and recursive case",
+          "Tracing recursive functions and recursion trees",
+          "Output order: printing before vs after the recursive call",
+          "Counting the number of calls / additions",
+          "Tail recursion and conversion to iteration",
+          "Recursion with static/global variables",
+          "Mutual recursion",
+          "Writing recurrences for recursive code GATE 2026 Crash Course (3 videos, 2h 02; at 1.5\u00d7 \u2248 1h 20)"
+        ],
+        "lecture": "Gate Smashers: Recursion in Programming \u2192 Lec-45; GATE Wallah CSE & DA: C Programming 05 : Recursion | CS & IT | CS & IT |",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "week": 3,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Structures, Unions and Dynamic Memory, Recursion"
+      },
+      {
+        "level": "R2",
+        "chapters": "C Basics: Operators, Expressions and Control Flow"
+      },
+      {
+        "level": "R3",
+        "chapters": "Machine Instructions & ISA, Instruction Formats & Opcode Encoding"
+      },
+      {
+        "level": "R4",
+        "chapters": "Rank & Systems of Linear Equations"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Arrays",
+        "duration": "35m",
+        "pyqs": "4 PYQs 2014\u201326",
+        "topics": [
+          "1D arrays and address calculation",
+          "Row-major and column-major order",
+          "Lower/upper triangular and sparse matrix storage",
+          "Multi-dimensional address formula"
+        ],
+        "lecture": "Gate Smashers: Lec-5, Lec-6, Lec-7 (3 videos, 28m; at 1.5\u00d7 \u2248 20m)",
+        "optional": "Optional, only if you have time: 2 more videos (1h 55)"
+      },
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Stacks",
+        "duration": "1h 45",
+        "pyqs": "8 PYQs",
+        "topics": [
+          "Push, pop, overflow, underflow",
+          "Array and linked-list implementations",
+          "Infix to postfix/prefix conversion",
+          "Postfix evaluation",
+          "Balanced parentheses",
+          "Valid stack permutations (Catalan number)",
+          "Recursion and the call stack",
+          "Two stacks in one array"
+        ],
+        "lecture": "Gate Smashers: Lec-30, Lec-33, Lec-40, Lec-42 (4 videos, 47m; at 1.5\u00d7 \u2248 30m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 46)"
+      },
+      {
+        "subject": "PDS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Queues",
+        "duration": "45m",
+        "pyqs": "5 PYQs 2014\u201326",
+        "topics": [
+          "FIFO queue: enqueue, dequeue",
+          "Circular queue: full/empty conditions",
+          "Deque (input/output restricted)",
+          "Priority queue (via heap)",
+          "Queue using two stacks and stack using queues",
+          "Linked-list implementation with front and rear pointers"
+        ],
+        "lecture": "Gate Smashers: Lec-46, Lec-49, Lec-51 (3 videos, 28m; at 1.5\u00d7 \u2248 20m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 39)"
+      },
+      {
+        "subject": "PDS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Linked Lists (1/2)",
+        "duration": "40m",
+        "pyqs": "",
+        "topics": [
+          "Singly, doubly and circular linked lists",
+          "Insertion and deletion at head/tail/middle",
+          "Traversal, reversal (iterative and recursive)",
+          "Finding middle, detecting cycles (Floyd's) Days 22\u201328",
+          "5 h a day"
+        ],
+        "lecture": "Gate Smashers: Lec-16, Lec-19, Lec-21, Lec-24 (4 videos, 36m; at 1.5\u00d7 \u2248 25m)",
+        "optional": "Optional, only if you have time: 1 more video (7m)"
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "week": 4,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Arrays, Stacks, Queues"
+      },
+      {
+        "level": "R2",
+        "chapters": "Pointers and Arrays, Functions, Parameter Passing and Scope"
+      },
+      {
+        "level": "R3",
+        "chapters": "Pipeline Performance & Speedup, Pipeline Hazards"
+      },
+      {
+        "level": "R4",
+        "chapters": "Eigenvalues & Eigenvectors, Limits, Continuity & Differentiability, Integration"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Linked Lists (2/2)",
+        "duration": "25m",
+        "pyqs": "6 PYQs 2014\u201326",
+        "topics": [
+          "Code tracing with pointer manipulation",
+          "Time complexity of list operations",
+          "Merging sorted lists"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Data Structures & Programming 07 : Linked List | CS & IT | GATE 2026 One Shot Series (only the parts on today's topics: about 15m at 1.5\u00d7; full video 1h 33)",
+        "optional": null
+      },
+      {
+        "subject": "PDS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Binary Trees and Traversals",
+        "duration": "1h 20",
+        "pyqs": "11 PYQs 2014\u201326",
+        "topics": [
+          "Terminology: height, depth, level, degree",
+          "Full, complete, perfect, strictly binary trees",
+          "Node-count relations (leaves = internal nodes with 2 children + 1)",
+          "Preorder, inorder, postorder, level-order",
+          "Reconstructing a tree from two traversals",
+          "Recursive functions on trees (height, count, leaves)",
+          "Number of distinct binary trees (Catalan)",
+          "Expression trees"
+        ],
+        "lecture": "Gate Smashers: Lec-52, Lec-56 (2 videos, 18m; at 1.5\u00d7 \u2248 10m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 35)"
+      },
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Binary Search Trees (1/2)",
+        "duration": "1h 25",
+        "pyqs": "",
+        "topics": [
+          "BST property; inorder gives sorted order",
+          "Search, insert, delete (inorder successor/predecessor)",
+          "Building a BST from an insertion order",
+          "BST from preorder/postorder"
+        ],
+        "lecture": "Gate Smashers: Lec-53, Lec-54, Lec-55 (3 videos, 29m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "week": 4,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h 15",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Linked Lists, Binary Trees and Traversals"
+      },
+      {
+        "level": "R2",
+        "chapters": "Structures, Unions and Dynamic Memory, Recursion"
+      },
+      {
+        "level": "R3",
+        "chapters": "Cache Organisation & Mapping"
+      },
+      {
+        "level": "R4",
+        "chapters": "Basic Probability"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Binary Search Trees (2/2)",
+        "duration": "1h 15",
+        "pyqs": "23 PYQs",
+        "topics": [
+          "Height: best O(log n), worst O(n)",
+          "Counting BSTs: Catalan number; number of insertion orders giving the same BST",
+          "Range queries, k-th smallest, checking validity"
+        ],
+        "lecture": "GATE Wallah CSE & DA: Data Structures & Programming 05 : Binary Search Tree One Shot | CS & IT | GATE 2026 One Shot Series (only the parts on today's topics: about 45m at 1.5\u00d7; full video 1h 29)",
+        "optional": null
+      },
+      {
+        "subject": "PDS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Binary Heaps",
+        "duration": "2h 40",
+        "pyqs": "21 PYQs",
+        "topics": [
+          "Max-heap and min-heap property; complete binary tree in an array",
+          "Index formulas: parent, left, right",
+          "Insert (sift up) and delete- min/max (sift down)",
+          "Build-heap in O(n) (bottom-up heapify)",
+          "Heap sort",
+          "Position of the max in a min-heap; k-th smallest element",
+          "Number of distinct heaps on n keys",
+          "Priority queue operations and their costs; d-ary heaps"
+        ],
+        "lecture": "Gate Smashers: L-3.13, L-3.14, L-3.17, L-3.16, L-3.18 (5 videos, 1h; at 1.5\u00d7 \u2248 40m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 30)"
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "week": 4,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Binary Search Trees, Binary Heaps"
+      },
+      {
+        "level": "R2",
+        "chapters": "Arrays, Stacks, Queues"
+      },
+      {
+        "level": "R3",
+        "chapters": "Cache Performance & Write Policies, Interrupts & I/O Modes"
+      },
+      {
+        "level": "R4",
+        "chapters": "Random Variables, Expectation & Variance, Boolean Algebra & Logic Gates, Canonical Forms (SOP & POS)"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Graph Representations",
+        "duration": "30m",
+        "pyqs": "1 PYQs",
+        "topics": [
+          "Adjacency matrix vs adjacency list",
+          "Space and time trade-offs",
+          "Degree, in/out-degree, handshake lemma",
+          "Directed, undirected, weighted, DAG",
+          "Incidence matrix",
+          "Counting edges and graphs representation in Data structure with example in Hindi | Matrix & List Representation (2 videos, 22m; at 1.5\u00d7 \u2248 15m)"
+        ],
+        "lecture": "Gate Smashers: Introduction to Graph Theory | Basics of Graph Theory | Imp for GATE and UGC NET; CS Engineering Gyan: Graph",
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Asymptotic Notation",
+        "duration": "55m",
+        "pyqs": "8 PYQs 2014\u201326",
+        "topics": [
+          "Big-O, Big-Omega, Big-Theta definitions",
+          "Little-o and little-omega",
+          "Comparing growth rates (log, polynomial, exponential, factorial)",
+          "Properties: transitivity, reflexivity, symmetry",
+          "Using logarithms to compare functions",
+          "Stirling's approximation: log n! = \u0398(n log n)",
+          "Worst, best and average case"
+        ],
+        "lecture": "Gate Smashers: L-1.3, L-1.4, L-1.5, L-1.7, L-1.8 (5 videos, 45m; at 1.5\u00d7 \u2248 30m)",
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Recurrence Relations and Master Theorem (1/2)",
+        "duration": "1h 50",
+        "pyqs": "",
+        "topics": [
+          "Writing recurrences from recursive code",
+          "Substitution (unrolling) method",
+          "Recursion tree method",
+          "Master theorem (three cases, with log factors)",
+          "Change of variables (e.g. T(n) = T(\u221an) + 1)"
+        ],
+        "lecture": "Gate Smashers: L-2.1, L-2.4, L-2.5, L-2.6 (4 videos, 33m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "week": 4,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Graph Representations, Asymptotic Notation"
+      },
+      {
+        "level": "R2",
+        "chapters": "Linked Lists, Binary Trees and Traversals"
+      },
+      {
+        "level": "R3",
+        "chapters": "C Basics: Operators, Expressions and Control Flow"
+      },
+      {
+        "level": "R4",
+        "chapters": "K-Map Minimisation"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Recurrence Relations and Master Theorem (2/2)",
+        "duration": "50m",
+        "pyqs": "14 PYQs",
+        "topics": [
+          "Unequal splits: T(n) = T(n/3) + T(2n/3) + n",
+          "Subtract-and-conquer: T(n) = aT(n\u22121) + f(n)"
+        ],
+        "lecture": "Gate Smashers: L-2.8, L-2.10 (2 videos, 16m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Comparison Sorting",
+        "duration": "1h 45",
+        "pyqs": "10 PYQs 2014\u201326",
+        "topics": [
+          "Bubble, selection, insertion sort",
+          "Merge sort (top-down, bottom-up, merging k sorted lists)",
+          "Quick sort and partition schemes (Lomuto, Hoare)",
+          "Heap sort",
+          "Stability, in-place, adaptivity",
+          "Number of swaps/comparisons/inversions",
+          "Lower bound \u03a9(n log n) via decision trees",
+          "Randomised quicksort and the effect of pivot choice"
+        ],
+        "lecture": "Gate Smashers: L-3.6, L-3.7, L-3.8, L-3.3, L-3.1 (5 videos, 59m; at 1.5\u00d7 \u2248 40m)",
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Hashing (1/2)",
+        "duration": "1h 05",
+        "pyqs": "",
+        "topics": [
+          "Hash functions: division (mod m), multiplication method",
+          "Collision resolution by chaining",
+          "Open addressing: linear probing, quadratic probing, double hashing",
+          "Primary and secondary clustering"
+        ],
+        "lecture": "Gate Smashers: L-6.1, L-6.2, L-6.3 (3 videos, 18m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "week": 4,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Recurrence Relations and Master Theorem, Comparison Sorting"
+      },
+      {
+        "level": "R2",
+        "chapters": "Binary Search Trees, Binary Heaps"
+      },
+      {
+        "level": "R3",
+        "chapters": "Pointers and Arrays, Functions, Parameter Passing and Scope"
+      },
+      {
+        "level": "R4",
+        "chapters": "Multiplexers, Decoders & Encoders, Number Systems & Base Conversion, Signed Integers & Overflow, Fixed Point & Multiplication (Booth)"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Hashing (2/2)",
+        "duration": "1h 10",
+        "pyqs": "15 PYQs",
+        "topics": [
+          "Load factor and expected number of probes",
+          "Deletion in open addressing (tombstones)",
+          "Universal hashing (idea)",
+          "Probability questions: expected collisions, empty slots"
+        ],
+        "lecture": "Gate Smashers: L-6.4, L-6.6, L-6.7 (3 videos, 31m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Greedy Algorithms",
+        "duration": "1h 05",
+        "pyqs": "4 PYQs",
+        "topics": [
+          "Greedy-choice property and optimal substructure",
+          "Activity selection (earliest finish time)",
+          "Fractional knapsack (ratio order)",
+          "Huffman coding: building the tree, average code length",
+          "Job sequencing with deadlines",
+          "Optimal merge pattern",
+          "Where greedy fails: 0/1 knapsack, coin change with odd denominations",
+          "MST and Dijkstra as greedy algorithms"
+        ],
+        "lecture": "Gate Smashers: L-4.1, L-4.2, L-4.3, L-4.4, L-4.5 (5 videos, 50m; at 1.5\u00d7 \u2248 35m)",
+        "optional": "Optional, only if you have time: 1 more video (11m)"
+      },
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Graph Traversals: BFS and DFS (1/2)",
+        "duration": "1h 05",
+        "pyqs": "",
+        "topics": [
+          "BFS: queue, levels, shortest paths in unweighted graphs",
+          "DFS: stack/recursion, discovery and finish times",
+          "Edge classification: tree, back, forward, cross"
+        ],
+        "lecture": "GATE Wallah CSE & DA: GATE 2027 - ALGORITHM 18 | Graph Algorithms - BFS, DFS on Undirected Graphs | CSE & DA (only the parts on today's topics: about 40m at 1.5\u00d7; full video 1h 02)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "week": 4,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Hashing, Greedy Algorithms"
+      },
+      {
+        "level": "R2",
+        "chapters": "Graph Representations, Asymptotic Notation"
+      },
+      {
+        "level": "R3",
+        "chapters": "Structures, Unions and Dynamic Memory, Recursion"
+      },
+      {
+        "level": "R4",
+        "chapters": "IEEE 754 Floating Point"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Graph Traversals: BFS and DFS (2/2)",
+        "duration": "1h 55",
+        "pyqs": "23 PYQs",
+        "topics": [
+          "Valid BFS/DFS orderings",
+          "Connected components, cycle detection, bipartiteness",
+          "Topological sort (DFS finish order / Kahn's algorithm)",
+          "Strongly connected components (Kosaraju, Tarjan)",
+          "Articulation points and bridges",
+          "Complexity: O(V + E) with lists, O(V\u00b2) with a matrix"
+        ],
+        "lecture": "GATE Wallah CSE & DA: GATE 2027 - ALGORITHM 19 | Graph Algorithms - DFS on Directed Graphs & DAG | CSE & DA (only the parts on today's topics: about 1h 10 at 1.5\u00d7; full video 2h 29)",
+        "optional": "Optional, only if you have time: 1 more video (2h 36)"
+      },
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Minimum Spanning Trees (1/2)",
+        "duration": "1h 40",
+        "pyqs": "",
+        "topics": [
+          "Spanning trees and the MST problem",
+          "Cut property and cycle property",
+          "Kruskal's algorithm with union-find",
+          "Prim's algorithm with a binary heap",
+          "Uniqueness of MST (distinct weights)"
+        ],
+        "lecture": "Gate Smashers: L-4.7, L-4.8, L-4.9 (3 videos, 28m; at 1.5\u00d7 \u2248 20m)",
+        "optional": "Optional, only if you have time: 1 more video (1h 56)"
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "week": 4,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Graph Traversals: BFS and DFS"
+      },
+      {
+        "level": "R2",
+        "chapters": "Recurrence Relations and Master Theorem, Comparison Sorting"
+      },
+      {
+        "level": "R3",
+        "chapters": "Arrays, Stacks, Queues"
+      },
+      {
+        "level": "R4",
+        "chapters": "Machine Instructions & ISA, Instruction Formats & Opcode Encoding"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "Algo",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Minimum Spanning Trees (2/2)",
+        "duration": "1h",
+        "pyqs": "23 PYQs",
+        "topics": [
+          "Effect of transforming weights (adding constants, squaring, negating)",
+          "Number of spanning trees (Cayley's formula, small graphs)",
+          "Second-best MST, MST vs shortest-path tree No new video today: finish the notes and worked examples"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Finite Automata (DFA and NFA)",
+        "duration": "1h 45",
+        "pyqs": "10 PYQs 2014\u201326",
+        "topics": [
+          "DFA: 5-tuple, transition function, acceptance",
+          "NFA and \u03b5-NFA",
+          "Subset construction (NFA to DFA)",
+          "Equivalence of DFA, NFA, \u03b5- NFA and regular expressions",
+          "Product construction (union, intersection, difference)",
+          "Mealy and Moore machines (finite-state transducers)",
+          "Reading what language a given automaton accepts"
+        ],
+        "lecture": "Gate Smashers: Lec-6, Lec-13, Lec-17, Lec-20, Lec-21, Lec-26 (6 videos, 57m; at 1.5\u00d7 \u2248 40m)",
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Minimal DFA and State Counting (1/2)",
+        "duration": "50m",
+        "pyqs": "",
+        "topics": [
+          "Myhill\u2013Nerode theorem and equivalence classes",
+          "Table-filling / partition refinement minimisation Days 29\u201335",
+          "5 h a day"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: 2.30 \u092a\u0930\u093f\u092e\u093f\u0924 \u0911\u091f\u094b\u092e\u0947\u091f\u093e \u0915\u093e \u0928\u094d\u092f\u0942\u0942\u0928\u0924\u092e\u0940\u0915\u0930\u0923 \u0909\u0926\u093e\u0939\u0930\u0923\u094b\u0902 \u0938\u0939\u093f\u0924 | \u092e\u0943\u0924 \u0938\u092e\u093e\u0928 \u0905\u0917\u092e\u094d\u092f \u0905\u0935\u0938\u094d\u0925\u093e\u093e\u090f\u0901 | \u0911\u091f\u094b\u092e\u0947\u091f\u093e \u0938\u093f\u0926\u094d\u0927\u093e\u0902\u093e\u0902\u0924 (1 video, 12m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "week": 5,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Minimum Spanning Trees, Finite Automata (DFA and NFA)"
+      },
+      {
+        "level": "R2",
+        "chapters": "Hashing, Greedy Algorithms"
+      },
+      {
+        "level": "R3",
+        "chapters": "Linked Lists, Binary Trees and Traversals"
+      },
+      {
+        "level": "R4",
+        "chapters": "Pipeline Performance & Speedup, Pipeline Hazards"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Minimal DFA and State Counting (2/2)",
+        "duration": "2h 15",
+        "pyqs": "16 PYQs",
+        "topics": [
+          "Removing unreachable states",
+          "Dead (trap) state counting",
+          "Standard counts: divisibility, length mod k, substring, prefix, suffix",
+          "Number of states for |w| conditions and combined conditions \u0938\u0902\u0916\u094d\u092f\u093e\u093e && b=p(mod r)\u2026 (4 videos, 41m; at 1.5\u00d7 \u2248 25m)"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: 2.31 Practice Question and Examples on Minimization Of\u2026 \u2192 2.26 \u0921\u0940\u090f\u092b\u090f \u0921\u093f\u091c\u093e\u0907\u0928\u093f\u0902\u0917 - a=n(mod m) \u0915\u0940",
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Regular Expressions",
+        "duration": "1h 20",
+        "pyqs": "11 PYQs 2014\u201326",
+        "topics": [
+          "Syntax: union, concatenation, Kleene star, precedence",
+          "Regular expression identities",
+          "Equivalence of regular expressions",
+          "Regex to NFA (Thompson) and FA to regex (state elimination, Arden's theorem)",
+          "Describing a language in words from a regex",
+          "Counting strings of a given length matched by a regex (5 videos, 1h 06; at 1.5\u00d7 \u2248 45m)"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: 5.1 Regular Expressions \u2192 5.9 Conversion of Finite Automata to Regular Expression |\u2026",
+        "optional": "Optional, only if you have time: 1 more video (9m)"
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "week": 5,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 45",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Minimal DFA and State Counting, Regular Expressions"
+      },
+      {
+        "level": "R2",
+        "chapters": "Graph Traversals: BFS and DFS"
+      },
+      {
+        "level": "R3",
+        "chapters": "Binary Search Trees, Binary Heaps"
+      },
+      {
+        "level": "R4",
+        "chapters": "Cache Organisation & Mapping"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Regular Grammars",
+        "duration": "35m",
+        "pyqs": "1 PYQs",
+        "topics": [
+          "Right-linear and left-linear grammars",
+          "Regular grammar to FA and FA to regular grammar",
+          "Mixing left- and right-linear rules gives a linear (possibly non-regular) grammar (3 videos, 23m; at 1.5\u00d7 \u2248 15m)"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: 6.7 Type 3 Grammar \u2192 6.12 Finite Automata to Regular Grammar Directly | Theory\u2026",
+        "optional": "Optional, only if you have time: 1 more video (11m)"
+      },
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Properties of Regular Languages",
+        "duration": "50m",
+        "pyqs": "8 PYQs 2014\u201326",
+        "topics": [
+          "Closure under union, intersection, complement, concatenation, star, reversal, difference",
+          "Closure under homomorphism, inverse homomorphism, quotient, prefix, suffix",
+          "Finite languages are regular; every subset of a regular language need not be regular",
+          "Decision problems for regular languages (emptiness, finiteness, membership, equivalence)",
+          "Proving a language regular or non-regular Theory of Computation | TOC (5 videos, 40m; at 1.5\u00d7 \u2248 25m)"
+        ],
+        "lecture": "Gate Smashers: Lec-34, Lec-35, Lec-41, Lec-38; KnowledgeGATE by Sanchit Sir: 7.3 Decision Properties for Regular Languages |",
+        "optional": "Optional, only if you have time: 1 more video (15m)"
+      },
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Pumping Lemma",
+        "duration": "30m",
+        "pyqs": "1 PYQs",
+        "topics": [
+          "Pumping lemma for regular languages",
+          "Pumping lemma for context-free languages",
+          "Minimum pumping length questions",
+          "Using pumping lemma only to prove non-membership"
+        ],
+        "lecture": "Gate Smashers: Lec-33: Pumping lemma for regular languages in TOC with examples (1 video, 12m; at 1.5\u00d7 \u2248 10m)",
+        "optional": "Optional, only if you have time: 1 more video (18m)"
+      },
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Context-Free Grammars",
+        "duration": "1h 40",
+        "pyqs": "15 PYQs",
+        "topics": [
+          "Derivations, leftmost/rightmost derivation, parse trees",
+          "Ambiguity and inherently ambiguous languages",
+          "Simplification: useless symbols, \u03b5-productions, unit productions",
+          "Chomsky Normal Form and Greibach Normal Form",
+          "Finding the language generated by a grammar",
+          "Counting derivation steps (CNF: ) 2n \u22121"
+        ],
+        "lecture": "Gate Smashers: Lec-46, Lec-47, Lec-49, Lec-37, Lec-52, Lec-51, Lec-54 (7 videos, 1h 01; at 1.5\u00d7 \u2248 40m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "week": 5,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Regular Grammars, Properties of Regular Languages, Pumping Lemma, Context-Free Grammars"
+      },
+      {
+        "level": "R2",
+        "chapters": "Minimum Spanning Trees, Finite Automata (DFA and NFA)"
+      },
+      {
+        "level": "R3",
+        "chapters": "Graph Representations, Asymptotic Notation"
+      },
+      {
+        "level": "R4",
+        "chapters": "Cache Performance & Write Policies, Interrupts & I/O Modes"
+      },
+      {
+        "level": "R5",
+        "chapters": "Propositional Logic"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Pushdown Automata (PDA and DPDA)",
+        "duration": "50m",
+        "pyqs": "6 PYQs 2014\u201326",
+        "topics": [
+          "PDA definition, instantaneous description, acceptance by final state vs empty stack",
+          "Designing PDAs for , , balanced parentheses",
+          "Equivalence of PDA and CFG",
+          "Deterministic PDA and deterministic CFLs (DCFLs)",
+          "DCFL closure: complement yes, union/intersection no",
+          "Reading what language a given PDA accepts"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: 9.2 Pushdown Automata PDA \u2192 9.4 a^n b^n example (3 videos, 41m; at 1.5\u00d7 \u2248 25m)",
+        "optional": "Optional, only if you have time: 3 more videos (34m)"
+      },
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Context-Free Languages",
+        "duration": "1h 45",
+        "pyqs": "7 PYQs",
+        "topics": [
+          "Recognising CFL vs non-CFL",
+          "Classic non-CFLs: , , , (prime)",
+          "CFL \u2229 regular is CFL",
+          "Decision problems for CFLs: membership (CYK), emptiness, finiteness",
+          "Undecidable CFL problems: ambiguity, equivalence, universality, intersection emptiness",
+          "Parikh's theorem for unary CFLs"
+        ],
+        "lecture": "Gate Smashers: Lec-43, Lec-44, Lec-53 (3 videos, 30m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Closure Properties (1/2)",
+        "duration": "30m",
+        "pyqs": "",
+        "topics": [
+          "Closure table for Regular, DCFL, CFL, CSL, Recursive, RE"
+        ],
+        "lecture": "Gate Smashers: Lec-39: Closure Properties Of Various Languages in TOC | Theory Of Computation (1 video, 13m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "week": 5,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Pushdown Automata (PDA and DPDA), Context-Free Languages"
+      },
+      {
+        "level": "R2",
+        "chapters": "Minimal DFA and State Counting, Regular Expressions"
+      },
+      {
+        "level": "R3",
+        "chapters": "Recurrence Relations and Master Theorem, Comparison Sorting"
+      },
+      {
+        "level": "R4",
+        "chapters": "C Basics: Operators, Expressions and Control Flow"
+      },
+      {
+        "level": "R5",
+        "chapters": "First- Order Logic, Sets, Relations, Functions"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Closure Properties (2/2)",
+        "duration": "50m",
+        "pyqs": "12 PYQs",
+        "topics": [
+          "Using closure to prove a language is (not) in a class",
+          "Homomorphism, inverse homomorphism, substitution, quotient",
+          "Intersection with regular languages"
+        ],
+        "lecture": "Gate Smashers: Lec-42, Lec-66 (2 videos, 16m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Turing Machines and Recursive / RE Languages",
+        "duration": "55m",
+        "pyqs": "4 PYQs 2014\u201326",
+        "topics": [
+          "Turing machine definition and variants (multi-tape, non-deterministic, two-stack PDA)",
+          "Recursive (decidable) vs recursively enumerable (semi-decidable) languages",
+          "Complement relationship:  and",
+          "Church\u2013Turing thesis",
+          "Universal Turing machine",
+          "Linear bounded automata and context-sensitive languages",
+          "Chomsky hierarchy"
+        ],
+        "lecture": "Gate Smashers: Lec-59, Lec-60, Lec-63, Lec-58, Lec-64 (5 videos, 42m; at 1.5\u00d7 \u2248 30m)",
+        "optional": "Optional, only if you have time: 1 more video (12m)"
+      },
+      {
+        "subject": "TOC",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Countability",
+        "duration": "30m",
+        "pyqs": "2 PYQs",
+        "topics": [
+          "Countable vs uncountable sets",
+          "Set of all TMs / all strings / all regular languages is countable",
+          "Set of all languages / all functions is uncountable",
+          "Diagonalisation and existence of non-RE languages"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: 1.3 Finite Set | Infinite Set | Countable Sets | Uncountable Sets in Hindi in Set Theory (1 video, 11m; at 1.5\u00d7 \u2248 5m)",
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Decidability and Reductions (1/2)",
+        "duration": "1h",
+        "pyqs": "",
+        "topics": [
+          "Halting problem and acceptance problem",
+          "Decidability table for Regular, DCFL, CFL, CSL, Recursive, RE",
+          "Rice's theorem (and when it does not apply) Concepts | CS & IT | GATE Crash Course (2 videos, 35m; at 1.5\u00d7 \u2248 25m) a b n n wwR a b c n n n ww an2 ap L L N \u2192{0, 1}"
+        ],
+        "lecture": "Gate Smashers: Lec-65: Decidability & Undecidability table in toc for all languages; GATE Wallah CSE & DA: TOC 10 | Undecdability",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "week": 5,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h 15",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Closure Properties, Turing Machines and Recursive / RE Languages, Countability"
+      },
+      {
+        "level": "R2",
+        "chapters": "Regular Grammars, Properties of Regular Languages, Pumping Lemma, Context-Free Grammars"
+      },
+      {
+        "level": "R3",
+        "chapters": "Hashing, Greedy Algorithms"
+      },
+      {
+        "level": "R4",
+        "chapters": "Pointers and Arrays, Functions, Parameter Passing and Scope"
+      },
+      {
+        "level": "R5",
+        "chapters": "Monoids & Groups"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Decidability and Reductions (2/2)",
+        "duration": "55m",
+        "pyqs": "18 PYQs",
+        "topics": [
+          "Many-one reductions and what they transfer",
+          "Post Correspondence Problem",
+          "Decidable questions about TMs (bounded steps, description properties) Today's videos came earlier in the plan: re-read your notes from them, then the PYQs"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Identifying the Language Class",
+        "duration": "1h 20",
+        "pyqs": "16 PYQs",
+        "topics": [
+          "Is it regular, DCFL, CFL, CSL, recursive, RE or not RE?",
+          "Standard examples for each class",
+          "Using closure and intersection-with- regular tricks",
+          "Languages defined by TM properties (encodings) GATE CS 2021 (1 video, 1h 09; at 1.5\u00d7 \u2248 45m)"
+        ],
+        "lecture": "BYJU'S Exam Prep GATE & ESE: EE,EC,IN,CS: How to check if Language is RL,DCFL,CFL,CSL,REL | 25 Most Important Topics for",
+        "optional": "Optional, only if you have time: 1 more video (32m)"
+      },
+      {
+        "subject": "CD",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Phases of a Compiler",
+        "duration": "55m",
+        "pyqs": "12 PYQs",
+        "topics": [
+          "Analysis (front end) vs synthesis (back end)",
+          "Lexical, syntax, semantic analysis, IR generation, optimisation, code generation",
+          "Symbol table and error handler",
+          "Which phase detects which error",
+          "Compiler vs interpreter vs assembler vs linker vs loader",
+          "Single-pass vs multi-pass compilers"
+        ],
+        "lecture": "Gate Smashers: Lec-2 \u2192 Linker & Loader with example (4 videos, 39m; at 1.5\u00d7 \u2248 25m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "week": 5,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Decidability and Reductions, Identifying the Language Class, Phases of a Compiler"
+      },
+      {
+        "level": "R2",
+        "chapters": "Pushdown Automata (PDA and DPDA), Context-Free Languages"
+      },
+      {
+        "level": "R3",
+        "chapters": "Graph Traversals: BFS and DFS"
+      },
+      {
+        "level": "R4",
+        "chapters": "Structures, Unions and Dynamic Memory, Recursion"
+      },
+      {
+        "level": "R5",
+        "chapters": "Counting Principles, Graph Basics & Degree"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "CD",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Grammars for Parsing (Ambiguity, Left Recursion, Left Factoring)",
+        "duration": "35m",
+        "pyqs": "7 PYQs",
+        "topics": [
+          "Derivations, parse trees and counting them",
+          "Ambiguous grammars and operator precedence / associativity",
+          "Grammars for expressions with given precedence",
+          "Eliminating left recursion (immediate and indirect)",
+          "Left factoring (3 videos, 30m; at 1.5\u00d7 \u2248 20m)"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: Derivation of String \u2192 3.3 Deterministic non deterministic context free grammar\u2026",
+        "optional": "Optional, only if you have time: 3 more videos (30m)"
+      },
+      {
+        "subject": "CD",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "FIRST and FOLLOW",
+        "duration": "35m",
+        "pyqs": "4 PYQs 2014\u201326",
+        "topics": [
+          "Computing FIRST of terminals, non-terminals and strings",
+          "Computing FOLLOW sets",
+          "Handling \u03b5-productions",
+          "Using FIRST/FOLLOW to fill LL(1) and SLR tables"
+        ],
+        "lecture": "Gate Smashers: Lec-5, Lec-6 (2 videos, 20m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      },
+      {
+        "subject": "CD",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Top-Down Parsing and LL(1)",
+        "duration": "40m",
+        "pyqs": "4 PYQs 2014\u201326",
+        "topics": [
+          "Recursive descent and backtracking",
+          "Predictive parsing table construction",
+          "LL(1) conditions and conflicts",
+          "Checking whether a grammar is LL(1)",
+          "Table-driven LL(1) parsing with a stack"
+        ],
+        "lecture": "Gate Smashers: Lec-7, Lec-8, Lec-9 (3 videos, 30m; at 1.5\u00d7 \u2248 20m)",
+        "optional": "Optional, only if you have time: 1 more video (9m)"
+      },
+      {
+        "subject": "CD",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Bottom-Up Parsing: LR(0), SLR, LALR, CLR (1/2)",
+        "duration": "1h 25",
+        "pyqs": "",
+        "topics": [
+          "Shift-reduce parsing, handles, viable prefixes",
+          "LR(0) items, closure and goto, canonical collection",
+          "SLR(1) table using FOLLOW"
+        ],
+        "lecture": "Gate Smashers: Lec-11, Lec-12 (2 videos, 25m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "week": 5,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Grammars for Parsing (Ambiguity, Left Recursion, Left Factoring), FIRST and FOLLOW, Top-Down Parsing and LL(1)"
+      },
+      {
+        "level": "R2",
+        "chapters": "Closure Properties, Turing Machines and Recursive / RE Languages, Countability"
+      },
+      {
+        "level": "R3",
+        "chapters": "Minimum Spanning Trees, Finite Automata (DFA and NFA)"
+      },
+      {
+        "level": "R4",
+        "chapters": "Arrays, Stacks, Queues"
+      },
+      {
+        "level": "R5",
+        "chapters": "Connectivity"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "CD",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Bottom-Up Parsing: LR(0), SLR, LALR, CLR (2/2)",
+        "duration": "2h 10",
+        "pyqs": "19 PYQs",
+        "topics": [
+          "LR(1) items and CLR(1)",
+          "LALR(1) by merging LR(1) states with the same core",
+          "Shift-reduce and reduce-reduce conflicts",
+          "Relative power: LR(0) \u2282 SLR \u2282 LALR \u2282 CLR"
+        ],
+        "lecture": "Gate Smashers: Lec-13, Lec-14, Lec-15, Lec-16 (4 videos, 51m; at 1.5\u00d7 \u2248 35m)",
+        "optional": null
+      },
+      {
+        "subject": "CD",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Syntax-Directed Translation (1/2)",
+        "duration": "50m",
+        "pyqs": "",
+        "topics": [
+          "Syntax-directed definitions (SDD) and translation schemes (SDT)",
+          "Synthesised and inherited attributes",
+          "S-attributed and L- attributed definitions Days 36\u201342",
+          "5 h a day"
+        ],
+        "lecture": "Gate Smashers: Lec-17, Lec-18 (2 videos, 16m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "week": 6,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Bottom-Up Parsing: LR(0), SLR, LALR, CLR"
+      },
+      {
+        "level": "R2",
+        "chapters": "Decidability and Reductions, Identifying the Language Class, Phases of a Compiler"
+      },
+      {
+        "level": "R3",
+        "chapters": "Minimal DFA and State Counting, Regular Expressions"
+      },
+      {
+        "level": "R4",
+        "chapters": "Linked Lists, Binary Trees and Traversals"
+      },
+      {
+        "level": "R5",
+        "chapters": "Graph Colouring, Matrices & Determinants"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "CD",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Syntax-Directed Translation (2/2)",
+        "duration": "1h 25",
+        "pyqs": "10 PYQs",
+        "topics": [
+          "Dependency graphs and evaluation order",
+          "Evaluating semantic actions on a parse tree",
+          "SDT for type checking, expression value, code generation",
+          "Bottom-up evaluation with a value stack"
+        ],
+        "lecture": "Gate Smashers: Lec-19, Lec-20, Lec-21 (3 videos, 25m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "System Calls, Interrupts & fork()",
+        "duration": "1h 20",
+        "pyqs": "5 PYQs 2014\u201326",
+        "topics": [
+          "User mode vs kernel mode",
+          "System calls and library functions",
+          "Interrupts, traps, exceptions",
+          "Context switch and its triggers",
+          "fork(), exec(), wait(), exit()",
+          "I/O handling: programmed, interrupt-driven, DMA (6 videos, 53m; at 1.5\u00d7 \u2248 35m)"
+        ],
+        "lecture": "Gate Smashers: L-1.10, L-1.7, L-1.8, L-1.9; Vinay Mishra: Computer Organization #66 \u2192 Computer Organization #68",
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Processes, Threads & IPC (1/2)",
+        "duration": "35m",
+        "pyqs": "",
+        "topics": [
+          "Process vs program, PCB contents"
+        ],
+        "lecture": "Gate Smashers: L-1.5: Process States in Operating System| Schedulers(Long term,Short term,Medium term) (1 video, 21m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "week": 6,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Syntax-Directed Translation, System Calls, Interrupts & fork()"
+      },
+      {
+        "level": "R2",
+        "chapters": "Grammars for Parsing (Ambiguity, Left Recursion, Left Factoring), FIRST and FOLLOW, Top-Down Parsing and LL(1)"
+      },
+      {
+        "level": "R3",
+        "chapters": "Regular Grammars, Properties of Regular Languages, Pumping Lemma, Context-Free Grammars"
+      },
+      {
+        "level": "R4",
+        "chapters": "Binary Search Trees, Binary Heaps"
+      },
+      {
+        "level": "R5",
+        "chapters": "Rank & Systems of Linear Equations"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Processes, Threads & IPC (2/2)",
+        "duration": "1h 40",
+        "pyqs": "13 PYQs",
+        "topics": [
+          "Process states and transitions",
+          "User-level vs kernel-level threads",
+          "What threads share and what they don't",
+          "Inter-process communication: shared memory, message passing, pipes, signals L-1.12; 5 Minutes Engineering: Inter Process Communication Explained in Hindi l ERTOS Course l OS Course (4 videos, 38m; at 1.5\u00d7 \u2248 25m)"
+        ],
+        "lecture": "5 Minutes Engineering: Process Control Block (PCB) ll Operating System ll Explained with Examples in Hindi; Gate Smashers: L-1.11,",
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "CPU Scheduling (1/2)",
+        "duration": "1h 25",
+        "pyqs": "",
+        "topics": [
+          "FCFS and convoy effect",
+          "SJF (non-preemptive) and SRTF (preemptive)"
+        ],
+        "lecture": "Gate Smashers: L-2.2, L-2.3, L-2.4 (3 videos, 29m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "week": 6,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Processes, Threads & IPC"
+      },
+      {
+        "level": "R2",
+        "chapters": "Bottom-Up Parsing: LR(0), SLR, LALR, CLR"
+      },
+      {
+        "level": "R3",
+        "chapters": "Pushdown Automata (PDA and DPDA), Context- Free Languages"
+      },
+      {
+        "level": "R4",
+        "chapters": "Graph Representations, Asymptotic Notation"
+      },
+      {
+        "level": "R5",
+        "chapters": "Eigenvalues & Eigenvectors, Limits, Continuity & Differentiability, Integration"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "CPU Scheduling (2/2)",
+        "duration": "3h",
+        "pyqs": "25 PYQs",
+        "topics": [
+          "Priority scheduling (preemptive / non-preemptive), aging",
+          "Round Robin and time quantum",
+          "Multilevel queue and multilevel feedback queue",
+          "HRRN",
+          "Scheduling criteria: TAT, WT, response time, throughput, CPU utilisation Sanchit Jain; Gate Smashers: L-2.10, L-2.11 (6 videos, 58m; at 1.5\u00d7 \u2248 40m)"
+        ],
+        "lecture": "Gate Smashers: L-2.5, L-2.8, L-2.7; 10 Minute Concepts by Unacademy: Iss tarah Highest Response Ratio kisi ne nhi samjhaya hoga |",
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Critical Section, Peterson & Hardware Locks (1/2)",
+        "duration": "30m",
+        "pyqs": "",
+        "topics": [
+          "Race conditions and lost updates",
+          "Critical section requirements: mutual exclusion, progress, bounded waiting",
+          "Strict alternation, flag-based attempts"
+        ],
+        "lecture": "Gate Smashers: L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1 (1 video, 17m; at 1.5\u00d7 \u2248 10m)",
+        "optional": "Optional, only if you have time: 1 more video (26m)"
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "week": 6,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "CPU Scheduling"
+      },
+      {
+        "level": "R2",
+        "chapters": "Syntax-Directed Translation, System Calls, Interrupts & fork()"
+      },
+      {
+        "level": "R3",
+        "chapters": "Closure Properties, Turing Machines and Recursive / RE Languages, Countability"
+      },
+      {
+        "level": "R4",
+        "chapters": "Recurrence Relations and Master Theorem, Comparison Sorting"
+      },
+      {
+        "level": "R5",
+        "chapters": "Basic Probability"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Critical Section, Peterson & Hardware Locks (2/2)",
+        "duration": "50m",
+        "pyqs": "6 PYQs 2014\u201326",
+        "topics": [
+          "Peterson's solution",
+          "Test-and-Set, Swap / Compare-and-Swap",
+          "Busy waiting and spinlocks",
+          "Bakery algorithm Problem in Operating System in Hindi (4 videos, 39m; at 1.5\u00d7 \u2248 25m)"
+        ],
+        "lecture": "Gate Smashers: L-3.5, L-3.6, L-3.7; KnowledgeGATE by Sanchit Sir: 4.6 Peterson Solution | Dekker's Algorithm | Critical Section",
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Semaphores, Monitors & Classic Problems (1/2)",
+        "duration": "2h 40",
+        "pyqs": "",
+        "topics": [
+          "Binary and counting semaphores, wait (P) / signal (V)",
+          "Semaphore-based ordering of threads",
+          "Producer\u2013consumer (bounded buffer)",
+          "Readers\u2013writers"
+        ],
+        "lecture": "Gate Smashers: L-3.8, L-3.9, L-3.10, L-3.11 (4 videos, 1h 11; at 1.5\u00d7 \u2248 45m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "week": 6,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Critical Section, Peterson & Hardware Locks"
+      },
+      {
+        "level": "R2",
+        "chapters": "Processes, Threads & IPC"
+      },
+      {
+        "level": "R3",
+        "chapters": "Decidability and Reductions, Identifying the Language Class, Phases of a Compiler"
+      },
+      {
+        "level": "R4",
+        "chapters": "Hashing, Greedy Algorithms"
+      },
+      {
+        "level": "R5",
+        "chapters": "Random Variables, Expectation & Variance, Boolean Algebra & Logic Gates, Canonical Forms (SOP & POS)"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Semaphores, Monitors & Classic Problems (2/2)",
+        "duration": "1h 45",
+        "pyqs": "16 PYQs",
+        "topics": [
+          "Dining philosophers",
+          "Monitors and condition variables",
+          "Deadlock and starvation with semaphores"
+        ],
+        "lecture": "Gate Smashers: L-3.12, L-3.13 (2 videos, 56m; at 1.5\u00d7 \u2248 35m)",
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Deadlock & Banker's Algorithm (1/2)",
+        "duration": "1h 45",
+        "pyqs": "",
+        "topics": [
+          "Four necessary conditions (Coffman)",
+          "Resource allocation graph (RAG) and wait-for graph",
+          "Deadlock prevention"
+        ],
+        "lecture": "Gate Smashers: L-4.1, L-4.2, L-4.3 (3 videos, 1h; at 1.5\u00d7 \u2248 40m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "week": 6,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Semaphores, Monitors & Classic Problems"
+      },
+      {
+        "level": "R2",
+        "chapters": "CPU Scheduling"
+      },
+      {
+        "level": "R3",
+        "chapters": "Grammars for Parsing (Ambiguity, Left Recursion, Left Factoring), FIRST and FOLLOW, Top-Down Parsing and LL(1)"
+      },
+      {
+        "level": "R4",
+        "chapters": "Graph Traversals: BFS and DFS"
+      },
+      {
+        "level": "R5",
+        "chapters": "K-Map Minimisation"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Deadlock & Banker's Algorithm (2/2)",
+        "duration": "1h 50",
+        "pyqs": "16 PYQs",
+        "topics": [
+          "Deadlock avoidance: safe state, Banker's algorithm",
+          "Deadlock detection and recovery",
+          "Minimum resources for deadlock freedom"
+        ],
+        "lecture": "Gate Smashers: L-4.4, L-4.5 (2 videos, 49m; at 1.5\u00d7 \u2248 35m)",
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Contiguous Allocation & Fragmentation",
+        "duration": "55m",
+        "pyqs": "3 PYQs",
+        "topics": [
+          "Logical vs physical addresses, base/limit registers",
+          "Fixed and variable partitioning",
+          "First fit, best fit, worst fit, next fit",
+          "Internal vs external fragmentation, compaction",
+          "Swapping",
+          "Overlays and dynamic loading"
+        ],
+        "lecture": "Gate Smashers: L-5.2, L-5.3, L-5.4 (3 videos, 46m; at 1.5\u00d7 \u2248 30m)",
+        "optional": "Optional, only if you have time: 2 more videos (28m)"
+      },
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Paging, Page Tables & TLB (1/2)",
+        "duration": "1h",
+        "pyqs": "",
+        "topics": [
+          "Pages, frames, address translation"
+        ],
+        "lecture": "Gate Smashers: L-5.9: What is Paging | Memory management | Operating System (1 video, 26m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "week": 6,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Deadlock & Banker's Algorithm, Contiguous Allocation & Fragmentation"
+      },
+      {
+        "level": "R2",
+        "chapters": "Critical Section, Peterson & Hardware Locks"
+      },
+      {
+        "level": "R3",
+        "chapters": "Bottom-Up Parsing: LR(0), SLR, LALR, CLR"
+      },
+      {
+        "level": "R4",
+        "chapters": "Minimum Spanning Trees, Finite Automata (DFA and NFA)"
+      },
+      {
+        "level": "R5",
+        "chapters": "Multiplexers, Decoders & Encoders, Number Systems & Base Conversion, Signed Integers & Overflow, Fixed Point & Multiplication (Booth)"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Paging, Page Tables & TLB (2/2)",
+        "duration": "3h 25",
+        "pyqs": "24 PYQs",
+        "topics": [
+          "Page table size and PTE contents",
+          "Multi-level (hierarchical) paging",
+          "Inverted and hashed page tables",
+          "TLB, hit ratio and effective memory access time",
+          "Segmentation and segmented paging Days 43\u201349",
+          "5 h a day"
+        ],
+        "lecture": "Gate Smashers: L-5.12, L-5.13, L-5.14, L-5.20, L-5.21, L-5.17 (6 videos, 1h 10; at 1.5\u00d7 \u2248 45m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "week": 7,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h 15",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Paging, Page Tables & TLB"
+      },
+      {
+        "level": "R2",
+        "chapters": "Semaphores, Monitors & Classic Problems"
+      },
+      {
+        "level": "R3",
+        "chapters": "Syntax-Directed Translation, System Calls, Interrupts & fork()"
+      },
+      {
+        "level": "R4",
+        "chapters": "Minimal DFA and State Counting, Regular Expressions"
+      },
+      {
+        "level": "R5",
+        "chapters": "IEEE 754 Floating Point"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Demand Paging & Page Replacement",
+        "duration": "4h",
+        "pyqs": "17 PYQs",
+        "topics": [
+          "Demand paging and page faults",
+          "Effective access time with page faults",
+          "FIFO, Optimal, LRU, LFU/MFU, LIFO",
+          "Belady's anomaly and stack algorithms",
+          "Clock / second chance",
+          "Thrashing, working set, frame allocation"
+        ],
+        "lecture": "Gate Smashers: L-5.19, L-5.22, L-5.23, L-5.24, L-5.25, L-5.16 (6 videos, 1h 18; at 1.5\u00d7 \u2248 50m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "week": 7,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Demand Paging & Page Replacement"
+      },
+      {
+        "level": "R2",
+        "chapters": "Deadlock & Banker's Algorithm, Contiguous Allocation & Fragmentation"
+      },
+      {
+        "level": "R3",
+        "chapters": "Processes, Threads & IPC"
+      },
+      {
+        "level": "R4",
+        "chapters": "Regular Grammars, Properties of Regular Languages, Pumping Lemma, Context-Free Grammars"
+      },
+      {
+        "level": "R5",
+        "chapters": "Machine Instructions & ISA, Instruction Formats & Opcode Encoding"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DBMS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "ER Model",
+        "duration": "55m",
+        "pyqs": "6 PYQs 2014\u201326",
+        "topics": [
+          "Entities, attributes (simple, composite, multivalued, derived)",
+          "Relationships, degree, cardinality ratios",
+          "Total vs partial participation",
+          "Weak entity sets and identifying relationships",
+          "Generalisation / specialisation, aggregation",
+          "ER to relational mapping and minimum number of tables"
+        ],
+        "lecture": "Gate Smashers: Lec-16, Lec-17, Lec-18 (3 videos, 39m; at 1.5\u00d7 \u2248 25m)",
+        "optional": "Optional, only if you have time: 4 more videos (42m)"
+      },
+      {
+        "subject": "DBMS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Relational Model & Integrity Constraints",
+        "duration": "55m",
+        "pyqs": "6 PYQs 2014\u201326",
+        "topics": [
+          "Relations, tuples, domains, schema vs instance",
+          "Super key, candidate key, primary key, foreign key",
+          "Domain, key, entity integrity, referential integrity",
+          "ON DELETE / ON UPDATE CASCADE, SET NULL, RESTRICT",
+          "NULL semantics"
+        ],
+        "lecture": "Gate Smashers: Lec-8, Lec-9, Lec-11, Lec-12, Lec-14 (5 videos, 45m; at 1.5\u00d7 \u2248 30m)",
+        "optional": null
+      },
+      {
+        "subject": "DBMS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Relational Algebra (1/2)",
+        "duration": "1h 35",
+        "pyqs": "",
+        "topics": [
+          "Selection \u03c3, projection \u03c0, rename \u03c1",
+          "Union, intersection, set difference (union-compatible)",
+          "Cartesian product and joins (theta, equi, natural, outer)"
+        ],
+        "lecture": "Gate Smashers: Lec-51, Lec-52, Lec-53, Lec-55, Lec-54, Lec-44 (6 videos, 49m; at 1.5\u00d7 \u2248 35m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "week": 7,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "ER Model, Relational Model & Integrity Constraints"
+      },
+      {
+        "level": "R2",
+        "chapters": "Paging, Page Tables & TLB"
+      },
+      {
+        "level": "R3",
+        "chapters": "CPU Scheduling"
+      },
+      {
+        "level": "R4",
+        "chapters": "Pushdown Automata (PDA and DPDA), Context-Free Languages"
+      },
+      {
+        "level": "R5",
+        "chapters": "Pipeline Performance & Speedup, Pipeline Hazards"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DBMS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Relational Algebra (2/2)",
+        "duration": "1h 30",
+        "pyqs": "15 PYQs",
+        "topics": [
+          "Division",
+          "Expressive power and equivalences",
+          "Counting tuples in results"
+        ],
+        "lecture": "Gate Smashers: Lec-47, Lec-56, Lec-57 (3 videos, 36m; at 1.5\u00d7 \u2248 25m)",
+        "optional": null
+      },
+      {
+        "subject": "DBMS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "SQL (1/2)",
+        "duration": "2h 05",
+        "pyqs": "",
+        "topics": [
+          "SELECT-FROM-WHERE, DISTINCT, ORDER BY",
+          "Joins in FROM (cross, inner, natural, outer)",
+          "GROUP BY, HAVING and aggregates",
+          "Nested and correlated subqueries; IN, EXISTS, ALL, ANY"
+        ],
+        "lecture": "Gate Smashers: Lec-60, Lec-67, Lec-69, Lec-71 (4 videos, 40m; at 1.5\u00d7 \u2248 25m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "week": 7,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Relational Algebra"
+      },
+      {
+        "level": "R2",
+        "chapters": "Demand Paging & Page Replacement"
+      },
+      {
+        "level": "R3",
+        "chapters": "Critical Section, Peterson & Hardware Locks"
+      },
+      {
+        "level": "R4",
+        "chapters": "Closure Properties, Turing Machines and Recursive / RE Languages, Countability"
+      },
+      {
+        "level": "R5",
+        "chapters": "Cache Organisation & Mapping"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DBMS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "SQL (2/2)",
+        "duration": "2h 20",
+        "pyqs": "25 PYQs",
+        "topics": [
+          "Set operations: UNION, INTERSECT, EXCEPT",
+          "NULL and three-valued logic",
+          "DDL, constraints, views",
+          "Selectivity estimates"
+        ],
+        "lecture": "Gate Smashers: Lec-74, Lec-75, Lec-80, Lec-81 (4 videos, 43m; at 1.5\u00d7 \u2248 30m)",
+        "optional": null
+      },
+      {
+        "subject": "DBMS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Functional Dependencies, Closures & Keys (1/2)",
+        "duration": "1h 25",
+        "pyqs": "",
+        "topics": [
+          "Functional dependency X \u2192 Y",
+          "Armstrong's axioms and derived rules",
+          "Attribute closure X+"
+        ],
+        "lecture": "Gate Smashers: Lec-27, Lec-26 (2 videos, 35m; at 1.5\u00d7 \u2248 25m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "week": 7,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 45",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "SQL"
+      },
+      {
+        "level": "R2",
+        "chapters": "ER Model, Relational Model & Integrity Constraints"
+      },
+      {
+        "level": "R3",
+        "chapters": "Semaphores, Monitors & Classic Problems"
+      },
+      {
+        "level": "R4",
+        "chapters": "Decidability and Reductions, Identifying the Language Class, Phases of a Compiler"
+      },
+      {
+        "level": "R5",
+        "chapters": "Cache Performance & Write Policies, Interrupts & I/O Modes"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DBMS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Functional Dependencies, Closures & Keys (2/2)",
+        "duration": "2h 10",
+        "pyqs": "14 PYQs",
+        "topics": [
+          "Closure of FD set F+, equivalence, minimal cover",
+          "Super keys and candidate keys",
+          "Prime / non-prime attributes",
+          "Counting super keys"
+        ],
+        "lecture": "Gate Smashers: Lec-15, Lec-40, Lec-34 (3 videos, 32m; at 1.5\u00d7 \u2248 20m)",
+        "optional": null
+      },
+      {
+        "subject": "DBMS",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Transactions, ACID & Recoverability",
+        "duration": "1h 05",
+        "pyqs": "9 PYQs",
+        "topics": [
+          "ACID properties",
+          "Transaction states",
+          "Conflicting operations",
+          "Recoverable, cascadeless (ACA) and strict schedules",
+          "Cascading rollback",
+          "Log-based recovery basics (undo/redo, checkpoint) (6 videos, 58m; at 1.5\u00d7 \u2248 40m)"
+        ],
+        "lecture": "Gate Smashers: Lec-88, Lec-89, Lec-91, Lec-94, Lec-95; KnowledgeGATE by Sanchit Sir: 8.19 Strict Schedule in DBMS",
+        "optional": "Optional, only if you have time: 2 more videos (17m)"
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "week": 7,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Functional Dependencies, Closures & Keys, Transactions, ACID & Recoverability"
+      },
+      {
+        "level": "R2",
+        "chapters": "Relational Algebra"
+      },
+      {
+        "level": "R3",
+        "chapters": "Deadlock & Banker's Algorithm, Contiguous Allocation & Fragmentation"
+      },
+      {
+        "level": "R4",
+        "chapters": "Grammars for Parsing (Ambiguity, Left Recursion, Left Factoring), FIRST and FOLLOW, Top-Down Parsing and LL(1)"
+      },
+      {
+        "level": "R5",
+        "chapters": "C Basics: Operators, Expressions and Control Flow"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DBMS",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Conflict & View Serializability",
+        "duration": "3h 35",
+        "pyqs": "16 PYQs",
+        "topics": [
+          "Serial and serializable schedules",
+          "Conflict equivalence and precedence graph",
+          "Topological orders = equivalent serial schedules",
+          "View equivalence and view serializability",
+          "Blind writes",
+          "Counting conflict-serializable schedules Serializability (6 videos, 1h 10; at 1.5\u00d7 \u2248 45m)"
+        ],
+        "lecture": "Gate Smashers: Lec-90, Lec-96, Lec-97, Lec-98, Lec-99; KnowledgeGATE by Sanchit Sir: 8.16 Practice Problem on View",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "week": 7,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Conflict & View Serializability"
+      },
+      {
+        "level": "R2",
+        "chapters": "SQL"
+      },
+      {
+        "level": "R3",
+        "chapters": "Paging, Page Tables & TLB"
+      },
+      {
+        "level": "R4",
+        "chapters": "Bottom-Up Parsing: LR(0), SLR, LALR, CLR"
+      },
+      {
+        "level": "R5",
+        "chapters": "Pointers and Arrays, Functions, Parameter Passing and Scope"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "CN",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Layering: OSI & TCP/IP Models",
+        "duration": "30m",
+        "pyqs": "3 PYQs 2014\u201326",
+        "topics": [
+          "Principles of layering (services, interfaces, protocols)",
+          "OSI 7-layer model",
+          "TCP/IP (Internet) 5-layer stack",
+          "PDU names: message, segment, datagram, frame",
+          "Encapsulation / decapsulation",
+          "Which device works at which layer (hub, switch, router)"
+        ],
+        "lecture": "Gate Smashers: Lec-2: Introduction to Computer Network | OSI MODEL in easiest Way in Hindi | Need of OSI model (1 video, 22m; at 1.5\u00d7 \u2248 15m)",
+        "optional": "Optional, only if you have time: 3 more videos (20m)"
+      },
+      {
+        "subject": "CN",
+        "tier": "\ud83d\udfe1",
+        "tier_name": "Basics only",
+        "title": "Delays, Throughput & Performance Metrics",
+        "duration": "35m",
+        "pyqs": "4 PYQs 2014\u201326",
+        "topics": [
+          "Transmission delay",
+          "Propagation delay",
+          "Queuing and processing delay",
+          "Round-trip time (RTT)",
+          "Throughput and bottleneck link",
+          "Bandwidth\u2013delay product",
+          "Units: bits vs bytes, K = 1000 vs 1024 Throughput vs. Latency | Computer Networks (2 videos, 17m; at 1.5\u00d7 \u2248 10m)"
+        ],
+        "lecture": "KnowledgeGATE by Sanchit Sir: Part 3.2: Propogation Time Vs Transmission Time in hindi; Gate Smashers: Lec-98 : Bandwidth vs.",
+        "optional": "Optional, only if you have time: 1 more video (1h 21)"
+      },
+      {
+        "subject": "CN",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Flow Control: Stop-and-Wait, GBN & SR (1/2)",
+        "duration": "2h 45",
+        "pyqs": "LEARN + CHAPTER PYQS \u2192 PYQ MASTERY",
+        "topics": [
+          "Stop-and-Wait ARQ efficiency",
+          "Sliding window: Go-Back-N",
+          "Selective Repeat",
+          "Window size for target utilisation",
+          "Sequence- number bits: GBN , SR L/B d/v W \u22642 \u2212 k W \u22642k\u22121 Days 50\u201356",
+          "5 h a day"
+        ],
+        "lecture": "Gate Smashers: Lec-23, Lec-24, Lec-25 (3 videos, 23m; at 1.5\u00d7 \u2248 15m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "week": 8,
+    "phase": "Learn + Chapter PYQs",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 45",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Layering: OSI & TCP/IP Models, Delays, Throughput & Performance Metrics"
+      },
+      {
+        "level": "R2",
+        "chapters": "Functional Dependencies, Closures & Keys, Transactions, ACID & Recoverability"
+      },
+      {
+        "level": "R3",
+        "chapters": "Demand Paging & Page Replacement"
+      },
+      {
+        "level": "R4",
+        "chapters": "Syntax-Directed Translation, System Calls, Interrupts & fork()"
+      },
+      {
+        "level": "R5",
+        "chapters": "Structures, Unions and Dynamic Memory, Recursion"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "CN",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "Flow Control: Stop-and-Wait, GBN & SR (2/2)",
+        "duration": "50m",
+        "pyqs": "14 PYQs",
+        "topics": [
+          "Throughput with ACK transmission time",
+          "Retransmissions on loss / timeouts"
+        ],
+        "lecture": "Gate Smashers: Lec-26: Various Flow Control Protocols | Stop&Wait , GoBackN & Selective repeat in Data Link Layer (1 video, 16m; at 1.5\u00d7 \u2248 10m)",
+        "optional": null
+      },
+      {
+        "subject": "CN",
+        "tier": "\u2705",
+        "tier_name": "Must-do",
+        "title": "IPv4 Header & Fragmentation",
+        "duration": "2h 15",
+        "pyqs": "17 PYQs",
+        "topics": [
+          "Header fields: version, IHL, total length, identification, flags (DF, MF), fragment offset, TTL, protocol, checksum, addresses, options",
+          "Header length 20\u201360 bytes (IHL in 4-byte words)",
+          "Fragment payload multiple of 8",
+          "Offset in 8-byte units",
+          "Reassembly only at destination",
+          "Re-fragmentation across smaller MTUs",
+          "Fields changed by routers (TTL, checksum)"
+        ],
+        "lecture": "Gate Smashers: Lec-54, Lec-55, Lec-56 (3 videos, 40m; at 1.5\u00d7 \u2248 25m)",
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "week": 8,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h 15",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R1",
+        "chapters": "Flow Control: Stop-and-Wait, GBN & SR, IPv4 Header & Fragmentation"
+      },
+      {
+        "level": "R2",
+        "chapters": "Conflict & View Serializability"
+      },
+      {
+        "level": "R3",
+        "chapters": "ER Model, Relational Model & Integrity Constraints"
+      },
+      {
+        "level": "R4",
+        "chapters": "Processes, Threads & IPC"
+      },
+      {
+        "level": "R5",
+        "chapters": "Arrays, Stacks, Queues"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DM",
+        "tier": null,
+        "tier_name": null,
+        "title": "Discrete Mathematics: PYQ sweep",
+        "duration": "3h 15",
+        "pyqs": "100 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 10 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": null,
+        "tier_name": null,
+        "title": "Engineering Mathematics: PYQ sweep (1/2)",
+        "duration": "30m",
+        "pyqs": "154 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 8 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "week": 8,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R2",
+        "chapters": "Layering: OSI & TCP/IP Models, Delays, Throughput & Performance Metrics"
+      },
+      {
+        "level": "R3",
+        "chapters": "Relational Algebra"
+      },
+      {
+        "level": "R4",
+        "chapters": "CPU Scheduling"
+      },
+      {
+        "level": "R5",
+        "chapters": "Linked Lists, Binary Trees and Traversals"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "EM",
+        "tier": null,
+        "tier_name": null,
+        "title": "Engineering Mathematics: PYQ sweep (2/2)",
+        "duration": "2h 50",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 8 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DL",
+        "tier": null,
+        "tier_name": null,
+        "title": "Digital Logic: PYQ sweep (1/2)",
+        "duration": "1h",
+        "pyqs": "84 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 8 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "week": 8,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R2",
+        "chapters": "Flow Control: Stop-and-Wait, GBN & SR, IPv4 Header & Fragmentation"
+      },
+      {
+        "level": "R3",
+        "chapters": "SQL"
+      },
+      {
+        "level": "R4",
+        "chapters": "Critical Section, Peterson & Hardware Locks"
+      },
+      {
+        "level": "R5",
+        "chapters": "Binary Search Trees, Binary Heaps"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DL",
+        "tier": null,
+        "tier_name": null,
+        "title": "Digital Logic: PYQ sweep (2/2)",
+        "duration": "1h 55",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 8 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "COA",
+        "tier": null,
+        "tier_name": null,
+        "title": "Computer Organization and Architecture: PYQ sweep (1/2)",
+        "duration": "1h 55",
+        "pyqs": "109 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 7 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "week": 8,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R3",
+        "chapters": "Functional Dependencies, Closures & Keys, Transactions, ACID & Recoverability"
+      },
+      {
+        "level": "R4",
+        "chapters": "Semaphores, Monitors & Classic Problems"
+      },
+      {
+        "level": "R5",
+        "chapters": "Graph Representations, Asymptotic Notation"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "COA",
+        "tier": null,
+        "tier_name": null,
+        "title": "Computer Organization and Architecture: PYQ sweep (2/2)",
+        "duration": "1h 45",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 7 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "PDS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Programming and Data Structures: PYQ sweep (1/2)",
+        "duration": "2h 20",
+        "pyqs": "164 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 13 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "week": 8,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R3",
+        "chapters": "Conflict & View Serializability"
+      },
+      {
+        "level": "R4",
+        "chapters": "Deadlock & Banker's Algorithm, Contiguous Allocation & Fragmentation"
+      },
+      {
+        "level": "R5",
+        "chapters": "Recurrence Relations and Master Theorem, Comparison Sorting"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Programming and Data Structures: PYQ sweep (2/2)",
+        "duration": "2h 25",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 13 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": null,
+        "tier_name": null,
+        "title": "Algorithms: PYQ sweep (1/2)",
+        "duration": "1h 40",
+        "pyqs": "97 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 7 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "week": 8,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R3",
+        "chapters": "Layering: OSI & TCP/IP Models, Delays, Throughput & Performance Metrics"
+      },
+      {
+        "level": "R4",
+        "chapters": "Paging, Page Tables & TLB"
+      },
+      {
+        "level": "R5",
+        "chapters": "Hashing, Greedy Algorithms"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "Algo",
+        "tier": null,
+        "tier_name": null,
+        "title": "Algorithms: PYQ sweep (2/2)",
+        "duration": "2h 25",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 7 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": null,
+        "tier_name": null,
+        "title": "Theory of Computation: PYQ sweep (1/2)",
+        "duration": "1h 40",
+        "pyqs": "127 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 14 chapters PYQ MASTERY \u2192 MOCKS Days 57\u201363",
+          "5 h a day"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 57,
+    "week": 9,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R3",
+        "chapters": "Flow Control: Stop-and-Wait, GBN & SR, IPv4 Header & Fragmentation"
+      },
+      {
+        "level": "R4",
+        "chapters": "Demand Paging & Page Replacement"
+      },
+      {
+        "level": "R5",
+        "chapters": "Graph Traversals: BFS and DFS"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "TOC",
+        "tier": null,
+        "tier_name": null,
+        "title": "Theory of Computation: PYQ sweep (2/2)",
+        "duration": "2h 15",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 14 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "CD",
+        "tier": null,
+        "tier_name": null,
+        "title": "Compiler Design: PYQ sweep (1/2)",
+        "duration": "1h 55",
+        "pyqs": "56 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 6 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "week": 9,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R4",
+        "chapters": "ER Model, Relational Model & Integrity Constraints"
+      },
+      {
+        "level": "R5",
+        "chapters": "Minimum Spanning Trees, Finite Automata (DFA and NFA)"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "CD",
+        "tier": null,
+        "tier_name": null,
+        "title": "Compiler Design: PYQ sweep (2/2)",
+        "duration": "1h 05",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 6 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Operating System: PYQ sweep (1/2)",
+        "duration": "3h 05",
+        "pyqs": "125 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 9 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "week": 9,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R4",
+        "chapters": "Relational Algebra"
+      },
+      {
+        "level": "R5",
+        "chapters": "Minimal DFA and State Counting, Regular Expressions"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "OS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Operating System: PYQ sweep (2/2)",
+        "duration": "1h 05",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 9 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DBMS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Databases: PYQ sweep (1/2)",
+        "duration": "3h 10",
+        "pyqs": "91 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 7 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "week": 9,
+    "phase": "PYQ Mastery",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": "GA 30m \u00b7 10 mixed GA PYQs, timed",
+    "revisions": [
+      {
+        "level": "R4",
+        "chapters": "SQL"
+      },
+      {
+        "level": "R5",
+        "chapters": "Regular Grammars, Properties of Regular Languages, Pumping Lemma, Context-Free Grammars"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "DBMS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Databases: PYQ sweep (2/2)",
+        "duration": "30m",
+        "pyqs": "",
+        "topics": [
+          "contd. Carry on from yesterday, then a 30-minute timed set on this subject Chapters in this plan: 7 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "CN",
+        "tier": null,
+        "tier_name": null,
+        "title": "Computer Networks: PYQ sweep",
+        "duration": "3h 40",
+        "pyqs": "38 PYQs",
+        "topics": [
+          "Redo every PYQ you got wrong, then the ones you skipped. Log each mistake with its reason Chapters in this plan: 4 chapters"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "week": 9,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h 15",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R4",
+        "chapters": "Functional Dependencies, Closures & Keys, Transactions, ACID & Recoverability"
+      },
+      {
+        "level": "R5",
+        "chapters": "Pushdown Automata (PDA and DPDA), Context-Free Languages"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 1 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "week": 9,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 15",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R4",
+        "chapters": "Conflict & View Serializability"
+      },
+      {
+        "level": "R5",
+        "chapters": "Closure Properties, Turing Machines and Recursive / RE Languages, Countability"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 1",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "week": 9,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R4",
+        "chapters": "Layering: OSI & TCP/IP Models, Delays, Throughput & Performance Metrics"
+      },
+      {
+        "level": "R5",
+        "chapters": "Decidability and Reductions, Identifying the Language Class, Phases of a Compiler"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Fix what the last mock exposed",
+        "duration": "1h 50",
+        "pyqs": "The top entries of your weak-topic log: re-read the theory, then solve their PYQs again",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "PDS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Programming and Data Structures: full revision",
+        "duration": "1h 25",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": null,
+        "tier_name": null,
+        "title": "Algorithms: full revision",
+        "duration": "1h 25",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [
+          "MOCKS Days 64\u201370",
+          "5 h a day"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 64,
+    "week": 10,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h 30",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R4",
+        "chapters": "Flow Control: Stop-and-Wait, GBN & SR, IPv4 Header & Fragmentation"
+      },
+      {
+        "level": "R5",
+        "chapters": "Grammars for Parsing (Ambiguity, Left Recursion, Left Factoring), FIRST and FOLLOW, Top-Down Parsing and LL(1)"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 2 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 65,
+    "week": 10,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Bottom-Up Parsing: LR(0), SLR, LALR, CLR"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 2",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 66,
+    "week": 10,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Syntax-Directed Translation, System Calls, Interrupts & fork()"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Fix what the last mock exposed",
+        "duration": "1h 55",
+        "pyqs": "The top entries of your weak-topic log: re-read the theory, then solve their PYQs again",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Operating System: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": null,
+        "tier_name": null,
+        "title": "Theory of Computation: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 67,
+    "week": 10,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Processes, Threads & IPC"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 3 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 68,
+    "week": 10,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "CPU Scheduling"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 3",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 69,
+    "week": 10,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Critical Section, Peterson & Hardware Locks"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Fix what the last mock exposed",
+        "duration": "2h",
+        "pyqs": "The top entries of your weak-topic log: re-read the theory, then solve their PYQs again",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DM",
+        "tier": null,
+        "tier_name": null,
+        "title": "Discrete Mathematics: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "COA",
+        "tier": null,
+        "tier_name": null,
+        "title": "Computer Organization and Architecture: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 70,
+    "week": 10,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Semaphores, Monitors & Classic Problems"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 4 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar MOCKS Days 71\u201377",
+          "5 h a day"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 71,
+    "week": 11,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 15",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Deadlock & Banker's Algorithm, Contiguous Allocation & Fragmentation"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 4",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "week": 11,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Paging, Page Tables & TLB"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Fix what the last mock exposed",
+        "duration": "2h",
+        "pyqs": "The top entries of your weak-topic log: re-read the theory, then solve their PYQs again",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "CN",
+        "tier": null,
+        "tier_name": null,
+        "title": "Computer Networks: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DBMS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Databases: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "week": 11,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Demand Paging & Page Replacement"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 5 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "week": 11,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 15",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "ER Model, Relational Model & Integrity Constraints"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 5",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "week": 11,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Relational Algebra"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Fix what the last mock exposed",
+        "duration": "2h",
+        "pyqs": "The top entries of your weak-topic log: re-read the theory, then solve their PYQs again",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": null,
+        "tier_name": null,
+        "title": "Engineering Mathematics: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DL",
+        "tier": null,
+        "tier_name": null,
+        "title": "Digital Logic: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "week": 11,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "SQL"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 6 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "week": 11,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 15",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Functional Dependencies, Closures & Keys, Transactions, ACID & Recoverability"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 6",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed MOCKS \u2192 FINAL REVISION Days 78\u201384",
+          "5 h a day"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 78,
+    "week": 12,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Conflict & View Serializability"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Fix what the last mock exposed",
+        "duration": "2h",
+        "pyqs": "The top entries of your weak-topic log: re-read the theory, then solve their PYQs again",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "CD",
+        "tier": null,
+        "tier_name": null,
+        "title": "Compiler Design: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "PDS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Programming and Data Structures: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "week": 12,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h 15",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Layering: OSI & TCP/IP Models, Delays, Throughput & Performance Metrics"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 7 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "week": 12,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h 15",
+    "ga_slot": null,
+    "revisions": [
+      {
+        "level": "R5",
+        "chapters": "Flow Control: Stop-and-Wait, GBN & SR, IPv4 Header & Fragmentation"
+      }
+    ],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 7",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 81,
+    "week": 12,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Fix what the last mock exposed",
+        "duration": "2h",
+        "pyqs": "The top entries of your weak-topic log: re-read the theory, then solve their PYQs again",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": null,
+        "tier_name": null,
+        "title": "Algorithms: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Operating System: full revision",
+        "duration": "1h 30",
+        "pyqs": "Short notes and formulas for every chapter, then every PYQ you got wrong in this subject",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "week": 12,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 8 of 9",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "week": 12,
+    "phase": "Mocks",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~4h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Analyse mock 8",
+        "duration": "4h",
+        "pyqs": "",
+        "topics": [
+          "Every question: right, wrong and skipped. Fill in a mock analysis sheet; add each lost mark to the weak-topic log Then re-learn the two weakest chapters it showed"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "week": 12,
+    "phase": "Final Revision",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "GA",
+        "tier": null,
+        "tier_name": null,
+        "title": "General Aptitude: final revision",
+        "duration": "1h 40",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "EM",
+        "tier": null,
+        "tier_name": null,
+        "title": "Engineering Mathematics: final revision",
+        "duration": "1h 40",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DM",
+        "tier": null,
+        "tier_name": null,
+        "title": "Discrete Mathematics: final revision",
+        "duration": "1h 40",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [
+          "FINAL REVISION Days 85\u201390",
+          "5 h a day"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 85,
+    "week": 13,
+    "phase": "Final Revision",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~3h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 9 of 9: the last one",
+        "duration": "3h",
+        "pyqs": "",
+        "topics": [
+          "Sit a full-length mock from your test series, or a full past GATE paper (2024\u20132026). 3 hours, at your exam slot, on-screen calculator only. No breaks, no pausing. Write the score on the mock graph and the mock calendar"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "week": 13,
+    "phase": "Final Revision",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Mock 9: quick analysis",
+        "duration": "1h 30",
+        "pyqs": "",
+        "topics": [
+          "Only the mistakes. Add them to the weak-topic log No new mocks from here"
+        ],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "DL",
+        "tier": null,
+        "tier_name": null,
+        "title": "Digital Logic: final revision",
+        "duration": "1h 45",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "COA",
+        "tier": null,
+        "tier_name": null,
+        "title": "Computer Organization and Architecture: final revision",
+        "duration": "1h 45",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "week": 13,
+    "phase": "Final Revision",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "PDS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Programming and Data Structures: final revision",
+        "duration": "1h 40",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "Algo",
+        "tier": null,
+        "tier_name": null,
+        "title": "Algorithms: final revision",
+        "duration": "1h 40",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "TOC",
+        "tier": null,
+        "tier_name": null,
+        "title": "Theory of Computation: final revision",
+        "duration": "1h 40",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "week": 13,
+    "phase": "Final Revision",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "CD",
+        "tier": null,
+        "tier_name": null,
+        "title": "Compiler Design: final revision",
+        "duration": "2h 30",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "OS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Operating System: final revision",
+        "duration": "2h 30",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "week": 13,
+    "phase": "Final Revision",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~5h",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "DBMS",
+        "tier": null,
+        "tier_name": null,
+        "title": "Databases: final revision",
+        "duration": "2h 15",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [],
+        "lecture": null,
+        "optional": null
+      },
+      {
+        "subject": "CN",
+        "tier": null,
+        "tier_name": null,
+        "title": "Computer Networks: final revision",
+        "duration": "2h 15",
+        "pyqs": "Formulas and short notes only, the error log for this subject, then 10 mixed PYQs to stay warm",
+        "topics": [
+          "Read your whole weak-topic log once 30m Every line. Close it when you're done."
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "week": 13,
+    "phase": "Final Revision",
+    "plan_code": "C",
+    "plan_name": "Starting from Almost Zero",
+    "estimated_time": "~1h 30",
+    "ga_slot": null,
+    "revisions": [],
+    "tasks": [
+      {
+        "subject": "STUDY",
+        "tier": null,
+        "tier_name": null,
+        "title": "Light day: the day before the exam",
+        "duration": "1h 30",
+        "pyqs": "",
+        "topics": [
+          "Formula pages only. Print the admit card, pack your ID, check the route to the centre. Sleep early. Read the night-before list (Part 3)"
+        ],
+        "lecture": null,
+        "optional": null
+      }
+    ]
+  }
+]

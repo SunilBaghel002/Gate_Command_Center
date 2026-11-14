@@ -1,0 +1,136 @@
+{
+  "instructions": "Five minutes a subject, an hour in all, before Day 1. For each chapter below, write down from memory the main method or formula and the kind of question GATE asks. Tick the box only if you could do it without looking.",
+  "subjects": [
+    {
+      "code": "GA",
+      "name": "General Aptitude",
+      "checks": [
+        "Reading Comprehension & Verbal Reasoning",
+        "Numerical Relations & Puzzles",
+        "Analogy & Coding-Decoding"
+      ]
+    },
+    {
+      "code": "EM",
+      "name": "Engineering Mathematics",
+      "checks": [
+        "Basic Probability",
+        "Eigenvalues & Eigenvectors",
+        "Random Variables, Expectation & Variance"
+      ]
+    },
+    {
+      "code": "DM",
+      "name": "Discrete Mathematics",
+      "checks": [
+        "Graph Colouring",
+        "Connectivity",
+        "Monoids & Groups"
+      ]
+    },
+    {
+      "code": "DL",
+      "name": "Digital Logic",
+      "checks": [
+        "Multiplexers, Decoders & Encoders",
+        "Boolean Algebra & Logic Gates",
+        "K-Map Minimisation"
+      ]
+    },
+    {
+      "code": "COA",
+      "name": "Computer Organization and Architecture",
+      "checks": [
+        "Cache Organisation & Mapping",
+        "Pipeline Performance & Speedup",
+        "Cache Performance & Write Policies"
+      ]
+    },
+    {
+      "code": "PDS",
+      "name": "Programming and Data Structures",
+      "checks": [
+        "C Basics: Operators, Expressions and Control Flow",
+        "Binary Search Trees",
+        "Recursion"
+      ]
+    },
+    {
+      "code": "Algo",
+      "name": "Algorithms",
+      "checks": [
+        "Minimum Spanning Trees",
+        "Graph Traversals: BFS and DFS",
+        "Hashing"
+      ]
+    },
+    {
+      "code": "TOC",
+      "name": "Theory of Computation",
+      "checks": [
+        "Identifying the Language Class",
+        "Context-Free Grammars",
+        "Closure Properties"
+      ]
+    },
+    {
+      "code": "CD",
+      "name": "Compiler Design",
+      "checks": [
+        "Phases of a Compiler",
+        "Syntax-Directed Translation",
+        "Bottom-Up Parsing: LR(0), SLR, LALR, CLR"
+      ]
+    },
+    {
+      "code": "OS",
+      "name": "Operating System",
+      "checks": [
+        "Paging, Page Tables & TLB",
+        "CPU Scheduling",
+        "Processes, Threads & IPC"
+      ]
+    },
+    {
+      "code": "DBMS",
+      "name": "Databases",
+      "checks": [
+        "SQL",
+        "Functional Dependencies, Closures & Keys",
+        "Conflict & View Serializability"
+      ]
+    },
+    {
+      "code": "CN",
+      "name": "Computer Networks",
+      "checks": [
+        "IPv4 Header & Fragmentation",
+        "Flow Control: Stop-and-Wait, GBN & SR",
+        "Delays, Throughput & Performance Metrics"
+      ]
+    }
+  ],
+  "total_checks": 36,
+  "recommendations": [
+    {
+      "condition": "Under 12 ticks",
+      "plan": "Plan C",
+      "reason": "Start from the must-do chapters and the basics they need. Gets the most-asked marks first."
+    },
+    {
+      "condition": "12 or more, ~4 h a day",
+      "plan": "Plan A",
+      "reason": "You know your basics and have college or a job."
+    },
+    {
+      "condition": "12 or more, full time",
+      "plan": "Plan B",
+      "reason": "Every chapter in the syllabus, must-do in full."
+    },
+    {
+      "condition": "0 or 1 tick in a subject",
+      "plan": "Any plan",
+      "reason": "Watch the full lectures for that subject must-do chapters. Do not skim them."
+    }
+  ]
+}

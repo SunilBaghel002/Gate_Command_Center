@@ -1,0 +1,106 @@
+{
+  "subjects": [
+    {
+      "subject": "General Aptitude",
+      "code": "GA",
+      "avg_marks": 15.0,
+      "aim_50": 11.0,
+      "aim_65": 12.0,
+      "aim_80": 13.0
+    },
+    {
+      "subject": "Engineering Mathematics",
+      "code": "EM",
+      "avg_marks": 6.9,
+      "aim_50": 3.0,
+      "aim_65": 4.5,
+      "aim_80": 5.5
+    },
+    {
+      "subject": "Discrete Mathematics",
+      "code": "DM",
+      "avg_marks": 7.8,
+      "aim_50": 3.5,
+      "aim_65": 5.0,
+      "aim_80": 6.0
+    },
+    {
+      "subject": "Digital Logic",
+      "code": "DL",
+      "avg_marks": 6.5,
+      "aim_50": 3.0,
+      "aim_65": 4.0,
+      "aim_80": 5.0
+    },
+    {
+      "subject": "Computer Organization and Architecture",
+      "code": "COA",
+      "avg_marks": 7.7,
+      "aim_50": 3.5,
+      "aim_65": 5.0,
+      "aim_80": 6.0
+    },
+    {
+      "subject": "Programming and Data Structures",
+      "code": "PDS",
+      "avg_marks": 9.9,
+      "aim_50": 4.5,
+      "aim_65": 5.0,
+      "aim_80": 8.5
+    },
+    {
+      "subject": "Algorithms",
+      "code": "Algo",
+      "avg_marks": 8.4,
+      "aim_50": 4.0,
+      "aim_65": 5.5,
+      "aim_80": 6.5
+    },
+    {
+      "subject": "Theory of Computation",
+      "code": "TOC",
+      "avg_marks": 8.1,
+      "aim_50": 3.5,
+      "aim_65": 5.0,
+      "aim_80": 6.5
+    },
+    {
+      "subject": "Compiler Design",
+      "code": "CD",
+      "avg_marks": 6.1,
+      "aim_50": 3.0,
+      "aim_65": 4.0,
+      "aim_80": 5.0
+    },
+    {
+      "subject": "Operating System",
+      "code": "OS",
+      "avg_marks": 8.4,
+      "aim_50": 4.0,
+      "aim_65": 5.5,
+      "aim_80": 6.5
+    },
+    {
+      "subject": "Databases",
+      "code": "DBMS",
+      "avg_marks": 7.1,
+      "aim_50": 3.5,
+      "aim_65": 4.5,
+      "aim_80": 5.5
+    },
+    {
+      "subject": "Computer Networks",
+      "code": "CN",
+      "avg_marks": 7.6,
+      "aim_50": 3.5,
+      "aim_65": 5.0,
+      "aim_80": 6.0
+    }
+  ],
+  "totals": {
+    "avg_marks": 99.5,
+    "aim_50": 50.0,
+    "aim_65": 65.0,
+    "aim_80": 80.0
+  }
+}

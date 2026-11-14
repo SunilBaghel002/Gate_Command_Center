@@ -1,0 +1,149 @@
+{
+  "calendar": [
+    {
+      "mock_no": 1,
+      "day": 61,
+      "analysis_day": 62,
+      "block": 1,
+      "paper_recommendation": "GATE 2024 Set 1 or Test Series Full Mock 1"
+    },
+    {
+      "mock_no": 2,
+      "day": 64,
+      "analysis_day": 65,
+      "block": 1,
+      "paper_recommendation": "GATE 2024 Set 2 or Test Series Full Mock 2"
+    },
+    {
+      "mock_no": 3,
+      "day": 67,
+      "analysis_day": 68,
+      "block": 1,
+      "paper_recommendation": "GATE 2025 Set 1 or Test Series Full Mock 3"
+    },
+    {
+      "mock_no": 4,
+      "day": 70,
+      "analysis_day": 71,
+      "block": 2,
+      "paper_recommendation": "GATE 2025 Set 2 or Test Series Full Mock 4"
+    },
+    {
+      "mock_no": 5,
+      "day": 73,
+      "analysis_day": 74,
+      "block": 2,
+      "paper_recommendation": "GATE 2026 Set 1 or Test Series Full Mock 5"
+    },
+    {
+      "mock_no": 6,
+      "day": 76,
+      "analysis_day": 77,
+      "block": 2,
+      "paper_recommendation": "GATE 2026 Set 2 or Test Series Full Mock 6"
+    },
+    {
+      "mock_no": 7,
+      "day": 79,
+      "analysis_day": 80,
+      "block": 3,
+      "paper_recommendation": "Test Series Advanced Mock 7"
+    },
+    {
+      "mock_no": 8,
+      "day": 82,
+      "analysis_day": 83,
+      "block": 3,
+      "paper_recommendation": "Test Series Advanced Mock 8"
+    },
+    {
+      "mock_no": 9,
+      "day": 85,
+      "analysis_day": 86,
+      "block": 3,
+      "paper_recommendation": "Final Comprehensive Exam Replica (The Last Mock)"
+    }
+  ],
+  "blocks": [
+    {
+      "title": "Block 1 (Mocks 1\u20133)",
+      "mocks": [
+        1,
+        2,
+        3
+      ],
+      "target_focus": "Diagnostic Baseline & Stamina. Learn to sit 3 hours at your exam slot."
+    },
+    {
+      "title": "Block 2 (Mocks 4\u20136)",
+      "mocks": [
+        4,
+        5,
+        6
+      ],
+      "target_focus": "Accuracy & Negative Mark Reduction. Keep MCQ negative marks under 3."
+    },
+    {
+      "title": "Block 3 (Mocks 7\u20139)",
+      "mocks": [
+        7,
+        8,
+        9
+      ],
+      "target_focus": "Speed, Final Calibration & Exam Day Strategy."
+    }
+  ],
+  "error_reasons": [
+    {
+      "reason": "Concept",
+      "meaning": "Didn't know the concept",
+      "action": "Re-learn the chapter from notes, solve all PYQs again. Fix \u2705 chapters first."
+    },
+    {
+      "reason": "Silly",
+      "meaning": "Knew it, slipped (units, sign, misread NOT)",
+      "action": "Write exact slip on sticky note, review before next mock."
+    },
+    {
+      "reason": "Time",
+      "meaning": "Ran out of time / spent >5 min",
+      "action": "Any question past 5 minutes should have been marked and left."
+    },
+    {
+      "reason": "Risky guess",
+      "meaning": "MCQ answered below 50% certainty",
+      "action": "Answer only when two options are ruled out. Keep MCQ negatives below 3 marks."
+    }
+  ],
+  "question_types": [
+    {
+      "type": "MCQ",
+      "name": "Multiple Choice Questions",
+      "rules": "+1 or +2 marks, -0.33 or -0.66 negative mark. Rule out 2 options before guessing."
+    },
+    {
+      "type": "MSQ",
+      "name": "Multiple Select Questions",
+      "rules": "No negative marks, no partial marks. Judge each option independently like 4 True/False statements."
+    },
+    {
+      "type": "NAT",
+      "name": "Numerical Answer Type",
+      "rules": "No negative marks. Keep precision while working, round once at the end. Verify units (ms vs \u03bcs, bits vs bytes)."
+    }
+  ],
+  "subjects": [
+    "GA",
+    "EM",
+    "DM",
+    "DL",
+    "COA",
+    "PDS",
+    "Algo",
+    "TOC",
+    "CD",
+    "OS",
+    "DBMS",
+    "CN"
+  ]
+}

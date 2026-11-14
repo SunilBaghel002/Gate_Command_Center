@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --paper-bg: #F4EFE6;
+    --paper-card: #FFFFFF;
+    --paper-border: #DCD4C4;
+    --ink-text: #16171D;
+  }
+
+  body {
+    background-color: var(--paper-bg);
+    color: var(--ink-text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom Scrollbars matching editorial theme for containers */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #EAE3D2;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C4BCAF;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9E9688;
+}
+
+/* Hide scrollbar utility class */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Print/Editorial styling touches */
+.paper-border {
+  border: 1px solid #DCD4C4;
+}
+
+.paper-divider {
+  border-color: #E3DCCE;
+}
+
+/* Smooth transitions */
+* {
+  box-sizing: border-box;
+}
+
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 2px solid #D8412F;
+  outline-offset: 1px;
+}
