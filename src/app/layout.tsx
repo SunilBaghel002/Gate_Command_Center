@@ -5,7 +5,9 @@ export const metadata: Metadata = {
   title: 'GATE Command Center · 90-Day Rescue Plan',
   description: 'The definitive command dashboard for GATE CSE 2027 based on 1,840 past questions and the 90-Day Rescue Plan.',
   icons: {
-    icon: '/favicon.ico',
+    icon: '/icon.png',
+    shortcut: '/favicon.ico',
+    apple: '/icon.png',
   },
 };
 

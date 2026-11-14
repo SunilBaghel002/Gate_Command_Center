@@ -35,7 +35,7 @@ export const LandingHero: React.FC<LandingHeroProps> = ({
   userState,
 }) => {
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-12">
+    <div className="max-w-[1600px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-12">
       
       {/* Hero Header / Purpose Statement */}
       <div className="bg-paper-card border-2 border-paper-border rounded-xl p-6 sm:p-10 shadow-editorial text-center relative overflow-hidden">

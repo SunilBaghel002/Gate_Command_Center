@@ -54,7 +54,7 @@ export const DiagnosticView: React.FC<DiagnosticViewProps> = ({
   };
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
+    <div className="max-w-[1600px] w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
       
       {/* Header Banner */}
       <div className="bg-paper-card border border-paper-border rounded-lg p-5 sm:p-6 shadow-editorial">
